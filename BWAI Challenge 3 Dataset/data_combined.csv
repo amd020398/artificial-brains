@@ -1,0 +1,1371 @@
+,TYPE,ITEM,PERIOD,DETAILS,STORAGE
+0,BEVERAGES,"Juice in cartons, fruit drinks, punch",3 weeks,unopened,REFRIGERATED
+1,BEVERAGES,"Juice in cartons, fruit drinks, punch",7-10 days,opened,REFRIGERATED
+2,BEVERAGES,"Juice in cartons, fruit drinks, punch",8-12 months,,FROZEN
+3,DIARY,Butter,1-3 months,,REFRIGERATED
+4,DIARY,Butter,6-9 months,,FROZEN
+5,DIARY,Buttermilk,1-2 weeks,,REFRIGERATED
+6,DIARY,Buttermilk,3 months,,FROZEN
+7,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",6 months,unopened,REFRIGERATED
+8,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",6 months,,FROZEN
+9,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",3-4 weeks,opened,REFRIGERATED
+10,DIARY,"Parmesan, shredded",1 month,opened,REFRIGERATED
+11,DIARY,"Parmesan, shredded",3-4 months,,FROZEN
+12,DIARY,"Shredded cheddar, mozzarella, etc.",1 month,,REFRIGERATED
+13,DIARY,"Shredded cheddar, mozzarella, etc.",3-4 months,,FROZEN
+14,DIARY,"Cheese, processed slices",1-2 months,,REFRIGERATED
+15,DIARY,"Cheese, processed slices",,Do not freeze,FROZEN
+16,DIARY,"Cheese, soft (such as Brie, Bel Paese)",1 week,,REFRIGERATED
+17,DIARY,"Cheese, soft (such as Brie, Bel Paese)",6 months,,FROZEN
+18,DIARY,"Cottage cheese, ricotta",1 week,,REFRIGERATED
+19,DIARY,"Cottage cheese, ricotta",,Do not freeze,FROZEN
+20,DIARY,Cream cheese,2 weeks,,REFRIGERATED
+21,DIARY,Cream cheese,,Do not freeze,FROZEN
+22,DIARY,"Cream, whipping, ultrapasteurized",1 month,,REFRIGERATED
+23,DIARY,"Cream, whipping, ultrapasteurized",,Do not freeze,FROZEN
+24,DIARY,"Whipped, sweetened",1 day,,REFRIGERATED
+25,DIARY,"Whipped, sweetened",1-2 months,,FROZEN
+26,DIARY,"Aerosol can, real whipped cream",3-4 weeks,,REFRIGERATED
+27,DIARY,"Aerosol can, real whipped cream",,Do not freeze,FROZEN
+28,DIARY,"Aerosol can, nondairy topping",3 months,,REFRIGERATED
+29,DIARY,"Aerosol can, nondairy topping",,Do not freeze,FROZEN
+30,DIARY,"Cream, half-and-half",3-4 days,,REFRIGERATED
+31,DIARY,"Cream, half-and-half",4 months,,FROZEN
+32,DIARY,"Dips, sour cream based",2 weeks,,REFRIGERATED
+33,DIARY,"Dips, sour cream based",,Do not freeze,FROZEN
+34,DIARY,"Egg substitutes, liquid",10 days,unopened,REFRIGERATED
+35,DIARY,"Egg substitutes, liquid",3 days,opened,REFRIGERATED
+36,DIARY,"Egg substitutes, liquid",,Do not freeze,FROZEN
+37,DIARY,"Eggnog, commercial",3-5 days,,REFRIGERATED
+38,DIARY,"Eggnog, commercial",6 months,,FROZEN
+39,DIARY,"Eggs, in shell",3-5 weeks,,REFRIGERATED
+40,DIARY,"Eggs, in shell",,Do not freeze,FROZEN
+41,DIARY,"Eggs, raw whites, yolks*",2-4 days,,REFRIGERATED
+42,DIARY,"Eggs, raw whites, yolks*",12 months,,FROZEN
+43,DIARY,"Eggs, hard cooked",1 week,,REFRIGERATED
+44,DIARY,"Eggs, hard cooked",,Do not freeze,FROZEN
+45,DIARY,Kefir (fermented milk),1 week after date,unopened,REFRIGERATED
+46,DIARY,Kefir (fermented milk),1-2 days,opened,REFRIGERATED
+47,DIARY,Kefir (fermented milk),,Do not freeze,FROZEN
+48,DIARY,Margarine,6 months,,REFRIGERATED
+49,DIARY,Margarine,12 months,,FROZEN
+50,DIARY,"Milk, plain or flavored",1 week,,REFRIGERATED
+51,DIARY,"Milk, plain or flavored",3 months,,FROZEN
+52,DIARY,Pudding,Package date,unopened,REFRIGERATED
+53,DIARY,Pudding,2 days,opened,REFRIGERATED
+54,DIARY,Pudding,,Do not freeze,FROZEN
+55,DIARY,Sour cream,7-21 days,,REFRIGERATED
+56,DIARY,Sour cream,Do not freeze,,FROZEN
+57,DIARY,Yogurt,7-14 days,,REFRIGERATED
+58,DIARY,Yogurt,1-2 months,,FROZEN
+59,DOUGH,"Tube cans of biscuits, rolls, pizza dough, etc.",Use-by date,,REFRIGERATED
+60,DOUGH,"Tube cans of biscuits, rolls, pizza dough, etc.",,Do not freeze,FROZEN
+61,DOUGH,Ready-to-bake pie crust,Use-by date,,REFRIGERATED
+62,DOUGH,Ready-to-bake pie crust,2 months,,FROZEN
+63,DOUGH,Cookie dough,Use by date,unopened,REFRIGERATED
+64,DOUGH,Cookie dough,Use by date,opened,REFRIGERATED
+65,DOUGH,Cookie dough,2 months,,FROZEN
+66,PASTA,"Pasta, fresh",1-2 days,,REFRIGERATED
+67,PASTA,"Pasta, fresh",package date,,REFRIGERATED
+68,PASTA,"Pasta, fresh",2 months,,FROZEN
+69,PESTO,Pesto or Sala,package date,unopened,REFRIGERATED
+70,PESTO,Pesto or Sala,3 days,opened,REFRIGERATED
+71,PESTO,Pesto or Sala,1-2 months,,FROZEN
+72,SOY,"Soy or rice beverage, refrigerated",7-10 days,,REFRIGERATED
+73,SOY,"Soy or rice beverage, refrigerated",,Do not freeze,FROZEN
+74,SOY,Tofu,1 week,,REFRIGERATED
+75,SOY,Tofu,5 months,,FROZEN
+76,SOY,Miso,3 months,,REFRIGERATED
+77,SOY,Miso,,Do not freeze,FROZEN
+78,FISH,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",1-2 days,,REFRIGERATED
+79,FISH,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",6-8 months,,FROZEN
+80,FISH,"Lean fish (pollock, ocean perch, rockfish, sea trout)",1-2 days,,REFRIGERATED
+81,FISH,"Lean fish (pollock, ocean perch, rockfish, sea trout)",4 months,,FROZEN
+82,FISH,"Fatty fish (bluefish, mackerel, mullet, salmon, tuna, etc.)",1-2 days,,REFRIGERATED
+83,FISH,"Fatty fish (bluefish, mackerel, mullet, salmon, tuna, etc.)",2-3 months,,FROZEN
+84,FISH,"Caviar, fresh, in jar",1-4 weeks,unopened,REFRIGERATED
+85,FISH,"Caviar, fresh, in jar",2 days,opened,REFRIGERATED
+86,FISH,"Caviar, fresh, in jar",,Do not freeze,FROZEN
+87,FISH,"Cooked fish, all",3-4 days,,REFRIGERATED
+88,FISH,"Cooked fish, all",1-2 months,,FROZEN
+89,FISH,Surimi seafood,3-4 days,,REFRIGERATED
+90,FISH,Surimi seafood,package date,,REFRIGERATED
+91,FISH,Surimi seafood,9 months,,FROZEN
+92,SHELLFISH,"Shrimp, scallops, crayfish, squid",1-2 days,,REFRIGERATED
+93,SHELLFISH,"Shrimp, scallops, crayfish, squid",3-6 months,,FROZEN
+94,SHELLFISH,"Shucked clams, mussels and oysters",1-2 days,,REFRIGERATED
+95,SHELLFISH,"Shucked clams, mussels and oysters",3-4 months,,FROZEN
+96,SHELLFISH,"Crab meat, fresh",1-2 days,,REFRIGERATED
+97,SHELLFISH,"Crab meat, fresh",4 months,,FROZEN
+98,SHELLFISH,"Crab meat, pasteurized",6 months,unopened,REFRIGERATED
+99,SHELLFISH,"Crab meat, pasteurized",3-5 days,opened,REFRIGERATED
+100,SHELLFISH,"Crab meat, pasteurized",4 months,,FROZEN
+101,SHELLFISH,"Crab legs, king, dungeness, snow",5 days,,REFRIGERATED
+102,SHELLFISH,"Crab legs, king, dungeness, snow",9-12 months,,FROZEN
+103,SHELLFISH,"Live clams, mussels, crab and oysters",1-2 days,,REFRIGERATED
+104,SHELLFISH,"Live clams, mussels, crab and oysters",2-3 months,,FROZEN
+105,SHELLFISH,Live lobsters,1-2 days,,REFRIGERATED
+106,SHELLFISH,Live lobsters,2-3 months,,FROZEN
+107,SHELLFISH,Lobster tails,1-2 days,,REFRIGERATED
+108,SHELLFISH,Lobster tails,6 months,,FROZEN
+109,SHELLFISH,"Cooked shellfish, all",3-4 days,,REFRIGERATED
+110,SHELLFISH,"Cooked shellfish, all",3 months,,FROZEN
+111,SMOKEDFISH,Herring,3-4 days,,REFRIGERATED
+112,SMOKEDFISH,Herring,2 months,,FROZEN
+113,SMOKEDFISH,"Salmon, whitefish, cold-smoked",5-8 days,,REFRIGERATED
+114,SMOKEDFISH,"Salmon, whitefish, cold-smoked",2 months,,FROZEN
+115,SMOKEDFISH,"Salmon, whitefish, hot smoked",14 days,,REFRIGERATED
+116,SMOKEDFISH,"Salmon, whitefish, hot smoked",package date,,REFRIGERATED
+117,SMOKEDFISH,"Salmon, whitefish, hot smoked",6 months,vacuum pkg,FROZEN
+118,FRESH_MEAT,"Beef, lamb, pork or veal chops, steaks,roasts",3-5 days,,REFRIGERATED
+119,FRESH_MEAT,"Beef, lamb, pork or veal chops, steaks,roasts",4-12 months,,FROZEN
+120,FRESH_MEAT,Ground meat,1-2 days,,REFRIGERATED
+121,FRESH_MEAT,Ground meat,3-4 months,,FROZEN
+122,FRESH_MEAT,"Variety meats (liver, tongue, chitterlings, etc.)",1-2 days,,REFRIGERATED
+123,FRESH_MEAT,"Variety meats (liver, tongue, chitterlings, etc.)",3-4 months,,FROZEN
+124,FRESH_MEAT,Cooked meats (after home cooking),3-4 days,,REFRIGERATED
+125,FRESH_MEAT,Cooked meats (after home cooking),2-3 months,,FROZEN
+126,PROCESSED_MEAT,Bacon,1 week,,REFRIGERATED
+127,PROCESSED_MEAT,Bacon,1 month,,FROZEN
+128,PROCESSED_MEAT,"Corned beef, in pouch with pickling juices",5-7 days,,REFRIGERATED
+129,PROCESSED_MEAT,"Corned beef, in pouch with pickling juices",1 month,,FROZEN
+130,PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",6-9 months,,REFRIGERATED
+131,PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",,Do not freeze,FROZEN
+132,PROCESSED_MEAT,"Ham, fully cooked, whole",1 week,,REFRIGERATED
+133,PROCESSED_MEAT,"Ham, fully cooked, whole",1-2 months,,FROZEN
+134,PROCESSED_MEAT,"Ham, fully cooked, slices or half",3-4 days,,REFRIGERATED
+135,PROCESSED_MEAT,"Ham, fully cooked, slices or half",1-2 months,,FROZEN
+136,PROCESSED_MEAT,"Ham, cook before eating",1 week,,REFRIGERATED
+137,PROCESSED_MEAT,"Ham, cook before eating",1-2 months,,FROZEN
+138,PROCESSED_MEAT,"Hot dogs, sealed in package",2 weeks,,REFRIGERATED
+139,PROCESSED_MEAT,"Hot dogs, sealed in package",1-2 months,,FROZEN
+140,PROCESSED_MEAT,"Hot dogs, after opening",1 week,,REFRIGERATED
+141,PROCESSED_MEAT,"Hot dogs, after opening",1-2 months,,FROZEN
+142,PROCESSED_MEAT,"Lunch meats, sealed in package",2 weeks,,REFRIGERATED
+143,PROCESSED_MEAT,"Lunch meats, sealed in package",1-2 months,,FROZEN
+144,PROCESSED_MEAT,"Lunch meats, after opening",3-5 days,,REFRIGERATED
+145,PROCESSED_MEAT,"Lunch meats, after opening",1-2 months,,FROZEN
+146,PROCESSED_MEAT,"Sausage, raw, bulk type",1-2 days,,REFRIGERATED
+147,PROCESSED_MEAT,"Sausage, raw, bulk type",1-2 months,,FROZEN
+148,PROCESSED_MEAT,"Sausage, smoked links, patties",1 week,,REFRIGERATED
+149,PROCESSED_MEAT,"Sausage, smoked links, patties",1-2 months,,FROZEN
+150,PROCESSED_MEAT,"Sausage, hard, dry (pepperoni), sliced",2-3 weeks,,REFRIGERATED
+151,PROCESSED_MEAT,"Sausage, hard, dry (pepperoni), sliced",1-2 months,,FROZEN
+152,FRESH_POULTRY,"Chicken or turkey, whole",1-2 days,,REFRIGERATED
+153,FRESH_POULTRY,"Chicken or turkey, whole",12 months,,FROZEN
+154,FRESH_POULTRY,"Chicken or turkey, parts",1-2 days,,REFRIGERATED
+155,FRESH_POULTRY,"Chicken or turkey, parts",9 months,,FROZEN
+156,FRESH_POULTRY,"Duckling or goose, whole",1-2 days,,REFRIGERATED
+157,FRESH_POULTRY,"Duckling or goose, whole",6 months,,FROZEN
+158,FRESH_POULTRY,Giblets,1-2 days,,REFRIGERATED
+159,FRESH_POULTRY,Giblets,3-4 months,,FROZEN
+160,PROCESSED_POULTRY,"Chicken nuggets, patties",1-2 days,,REFRIGERATED
+161,PROCESSED_POULTRY,"Chicken nuggets, patties",1-3 months,,FROZEN
+162,PROCESSED_POULTRY,Cooked poultry dishes,3-4 days,,REFRIGERATED
+163,PROCESSED_POULTRY,Cooked poultry dishes,4-6 months,,FROZEN
+164,PROCESSED_POULTRY,Fried chicken,3-4 days,,REFRIGERATED
+165,PROCESSED_POULTRY,Fried chicken,4 months,,FROZEN
+166,PROCESSED_POULTRY,Ground turkey or chicken,1-2 days,,REFRIGERATED
+167,PROCESSED_POULTRY,Ground turkey or chicken,3-4 months,,FROZEN
+168,PROCESSED_POULTRY,"Lunch meats, sealed in package",2 weeks,,REFRIGERATED
+169,PROCESSED_POULTRY,"Lunch meats, sealed in package",1-2 months,,FROZEN
+170,PROCESSED_POULTRY,"Lunch meats, after opening",3-5 days,,REFRIGERATED
+171,PROCESSED_POULTRY,"Lunch meats, after opening",1-2 months,,FROZEN
+172,PROCESSED_POULTRY,Pieces covered with broth or gravy,1-2 days,,REFRIGERATED
+173,PROCESSED_POULTRY,Pieces covered with broth or gravy,6 months,,FROZEN
+174,PROCESSED_POULTRY,Rotisserie chicken,3-4 days,,REFRIGERATED
+175,PROCESSED_POULTRY,Rotisserie chicken,4 months,,FROZEN
+176,FRUIT,Apples,1-2 days,,SHELF
+177,FRUIT,Apples,3 weeks,,REFRIGERATED
+178,FRUIT,Apples,8 months,Cooked,FROZEN
+179,FRUIT,Apricots,Until ripe,,SHELF
+180,FRUIT,Apricots,2-3 days,,REFRIGERATED
+181,FRUIT,Apricots,,Do not freeze,FROZEN
+182,FRUIT,Avocados,Until ripe,,SHELF
+183,FRUIT,Avocados,3-4 days,,REFRIGERATED
+184,FRUIT,Avocados,,Do not freeze,FROZEN
+185,FRUIT,Bananas,Until ripe,,SHELF
+186,FRUIT,Bananas,2 days,skin will blacken,REFRIGERATED
+187,FRUIT,Bananas,1 month,Whole peeled,FROZEN
+188,FRUIT,"Berries, cherries",1-2 days,,REFRIGERATED
+189,FRUIT,"Berries, cherries",4 months,,FROZEN
+190,FRUIT,Citrus Fruit,10 days,,SHELF
+191,FRUIT,Citrus Fruit,1-2 weeks,,REFRIGERATED
+192,FRUIT,Citrus Fruit,,Do not freeze,FROZEN
+193,FRUIT,Coconuts,1 week,fresh,SHELF
+194,FRUIT,Coconuts,2-3 weeks,fresh,REFRIGERATED
+195,FRUIT,Coconuts,6 months,Shredded,FROZEN
+196,FRUIT,Grapes,1 day,,SHELF
+197,FRUIT,Grapes,1 week,,REFRIGERATED
+198,FRUIT,Grapes,1 month,Whole,FROZEN
+199,FRUIT,Kiwi Fruit,Until ripe,,SHELF
+200,FRUIT,Kiwi Fruit,3-4 days,,REFRIGERATED
+201,FRUIT,Kiwi Fruit,,Do not freeze,FROZEN
+202,FRUIT,Melons,1-2 days,,SHELF
+203,FRUIT,Melons,3-4 days,,REFRIGERATED
+204,FRUIT,Melons,1 month,Balls,FROZEN
+205,FRUIT,"Papaya, mango",3-5 days,,SHELF
+206,FRUIT,"Papaya, mango",1 week,,REFRIGERATED
+207,FRUIT,"Papaya, mango",,Do not freeze,FROZEN
+208,FRUIT,"Peaches, nectarines",Until ripe,,SHELF
+209,FRUIT,"Peaches, nectarines",3-4 days,,REFRIGERATED
+210,FRUIT,"Peaches, nectarines",2 months,"Sliced, lemon juice & sugar",FROZEN
+211,FRUIT,"Pears, Plums",3-5 days,,SHELF
+212,FRUIT,"Pears, Plums",3-4 days,,REFRIGERATED
+213,FRUIT,"Pears, Plums",,Do not freeze,FROZEN
+214,VEGETABLES,"Artichokes, whole",1-2 days,,SHELF
+215,VEGETABLES,"Artichokes, whole",1-2 weeks,,REFRIGERATED
+216,VEGETABLES,"Artichokes, whole",,Do not freeze,FROZEN
+217,VEGETABLES,Asparagus,3-4 days,,REFRIGERATED
+218,VEGETABLES,Asparagus,8 months,,FROZEN
+219,VEGETABLES,"Beans, green or wax",3-4 days,,REFRIGERATED
+220,VEGETABLES,"Beans, green or wax",8 months,,FROZEN
+221,VEGETABLES,Beets,1 day,,SHELF
+222,VEGETABLES,Beets,7-10 days,,REFRIGERATED
+223,VEGETABLES,Beets,6-8 months,,FROZEN
+224,VEGETABLES,Bok choy,2-3days,,REFRIGERATED
+225,VEGETABLES,Bok choy,10-12 months,,FROZEN
+226,VEGETABLES,"Broccoli, raab, rapini",3-5 days,,REFRIGERATED
+227,VEGETABLES,"Broccoli, raab, rapini",10-12 months,,FROZEN
+228,VEGETABLES,Brussels sprouts,3-5 days,,REFRIGERATED
+229,VEGETABLES,Brussels sprouts,10-12 months,,FROZEN
+230,VEGETABLES,Cauliflower,3-5 days,,REFRIGERATED
+231,VEGETABLES,Cauliflower,10-12 months,,FROZEN
+232,VEGETABLES,Cabbage,1-2 weeks,,REFRIGERATED
+233,VEGETABLES,Cabbage,10-12 months,,FROZEN
+234,VEGETABLES,"Carrots, parsnips",3 weeks,,REFRIGERATED
+235,VEGETABLES,"Carrots, parsnips",10-12 months,,FROZEN
+236,VEGETABLES,Celery,1-2 weeks,,REFRIGERATED
+237,VEGETABLES,Celery,10-12 months,,FROZEN
+238,VEGETABLES,Corn on the cob,1-2 days,,REFRIGERATED
+239,VEGETABLES,Corn on the cob,8 months,,FROZEN
+240,VEGETABLES,Cucumbers,4-5 days,,REFRIGERATED
+241,VEGETABLES,Cucumbers,,Do not freeze,FROZEN
+242,VEGETABLES,Eggplant,1 day,,SHELF
+243,VEGETABLES,Eggplant,3-4 days,,REFRIGERATED
+244,VEGETABLES,Eggplant,6-8 months,,FROZEN
+245,VEGETABLES,Garlic,1 month,,SHELF
+246,VEGETABLES,Garlic,1-2 weeks,,REFRIGERATED
+247,VEGETABLES,Garlic,1 month,,FROZEN
+248,VEGETABLES,Ginger Root,1-2 days,,SHELF
+249,VEGETABLES,Ginger Root,1-2 weeks,,REFRIGERATED
+250,VEGETABLES,Ginger Root,1 month,,FROZEN
+251,VEGETABLES,Greens,1-2 days,,REFRIGERATED
+252,VEGETABLES,Greens,10-12 months,,FROZEN
+253,VEGETABLES,"Herbs, fresh",7-10 days,,REFRIGERATED
+254,VEGETABLES,"Herbs, fresh",1-2 months,,FROZEN
+255,VEGETABLES,Leeks,1-2 weeks,,REFRIGERATED
+256,VEGETABLES,Leeks,10-12 months,,FROZEN
+257,VEGETABLES,"Lettuce, iceberg",1-2 weeks,,REFRIGERATED
+258,VEGETABLES,"Lettuce, iceberg",,Do not freeze,FROZEN
+259,VEGETABLES,"Lettuce, leaf",3-7 days,,REFRIGERATED
+260,VEGETABLES,"Lettuce, leaf",,Do not freeze,FROZEN
+261,VEGETABLES,Mushrooms,2-3 days,,REFRIGERATED
+262,VEGETABLES,Mushrooms,10-12 months,,FROZEN
+263,VEGETABLES,Okra,2-3 days,,REFRIGERATED
+264,VEGETABLES,Okra,10-12 months,,FROZEN
+265,VEGETABLES,"Onions, dry",2-3 weeks,,SHELF
+266,VEGETABLES,"Onions, dry",2 months,,REFRIGERATED
+267,VEGETABLES,"Onions, dry",10-12 months,,FROZEN
+268,VEGETABLES,"Onions, Spring or green",1-2 weeks,,REFRIGERATED
+269,VEGETABLES,"Onions, Spring or green",10-12 months,,FROZEN
+270,VEGETABLES,"Parsley, cilantro",1 week,,REFRIGERATED
+271,VEGETABLES,"Parsley, cilantro",1-2 months,,FROZEN
+272,VEGETABLES,"Peppers, bell or chile",4-5 days,,REFRIGERATED
+273,VEGETABLES,"Peppers, bell or chile",6-8 months,,FROZEN
+274,VEGETABLES,Potatoes,1-2 months,,SHELF
+275,VEGETABLES,Potatoes,1-2 weeks,,REFRIGERATED
+276,VEGETABLES,Potatoes,10-12 months,Cooked and mashed,FROZEN
+277,VEGETABLES,Radishes,10-14 days,,REFRIGERATED
+278,VEGETABLES,Radishes,,Do not freeze,FROZEN
+279,VEGETABLES,Rutabagas,1 week,,SHELF
+280,VEGETABLES,Rutabagas,2 weeks,,REFRIGERATED
+281,VEGETABLES,Rutabagas,8-10 months,,FROZEN
+282,VEGETABLES,Spinach,1-2 days,,REFRIGERATED
+283,VEGETABLES,Spinach,10-12 months,,FROZEN
+284,VEGETABLES,"Squash, summer",4-5 days,,REFRIGERATED
+285,VEGETABLES,"Squash, summer",10-12 months,,FROZEN
+286,VEGETABLES,"Squash, winter",1 week,,SHELF
+287,VEGETABLES,"Squash, winter",2 weeks,,REFRIGERATED
+288,VEGETABLES,"Squash, winter",10-12 months,,FROZEN
+289,VEGETABLES,Turnips,2 weeks,,REFRIGERATED
+290,VEGETABLES,Turnips,8-10 months,,FROZEN
+291,VEGETABLES,Tomatoes,Until ripe,,SHELF
+292,VEGETABLES,Tomatoes,2-3 days,,REFRIGERATED
+293,VEGETABLES,Tomatoes,2 months,,FROZEN
+294,FROZEN_ITEM,Bagels,2 months,,FROZEN
+295,FROZEN_ITEM,Bagels,1-2 weeks,,THAWED
+296,FROZEN_ITEM,"Bread Dough, commercial",Use-by date,,FROZEN
+297,FROZEN_ITEM,"Bread Dough, commercial",4-7 days,After baking,THAWED
+298,FROZEN_ITEM,"Burritos, sandwiches",2 months,,FROZEN
+299,FROZEN_ITEM,"Burritos, sandwiches",3-4 days,,THAWED
+300,FROZEN_ITEM,Egg substitutes,12 months,,FROZEN
+301,FROZEN_ITEM,Egg substitutes,Date on Carton,,THAWED
+302,FROZEN_ITEM,"Fish, breaded",3-6 months,,FROZEN
+303,FROZEN_ITEM,"Fish, breaded",,Do not defrost. Cook frozen.,THAWED
+304,FROZEN_ITEM,"Fish, raw",6 months,,FROZEN
+305,FROZEN_ITEM,"Fish, raw",1-2 days,,THAWED
+306,FROZEN_ITEM,"Fruit such as berries, melons",4-6 months,,FROZEN
+307,FROZEN_ITEM,"Fruit such as berries, melons",4-5 days,,THAWED
+308,FROZEN_ITEM,Guacamole,3-4 months,,FROZEN
+309,FROZEN_ITEM,Guacamole,3-4 days,,THAWED
+310,FROZEN_ITEM,Ice cream,2-4 months,,FROZEN
+311,FROZEN_ITEM,Juice concentrates,6-12 months,,FROZEN
+312,FROZEN_ITEM,Juice concentrates,7-10 days,,THAWED
+313,FROZEN_ITEM,Lobster tails,3 months,,FROZEN
+314,FROZEN_ITEM,Lobster tails,2 days,,THAWED
+315,FROZEN_ITEM,"Pancakes, Waffles",2 months,,FROZEN
+316,FROZEN_ITEM,"Pancakes, Waffles",3-4 days,,THAWED
+317,FROZEN_ITEM,"Sausages, uncooked",1-2 months,,FROZEN
+318,FROZEN_ITEM,"Sausages, uncooked",1-2 days,,THAWED
+319,FROZEN_ITEM,"Sausages, precooked",1-2 months,,FROZEN
+320,FROZEN_ITEM,"Sausages, precooked",1 week,,THAWED
+321,FROZEN_ITEM,"Sherbet, sorbet",2-4 months,,FROZEN
+322,FROZEN_ITEM,"Shrimp, shellfish",12 months,,FROZEN
+323,FROZEN_ITEM,"Shrimp, shellfish",1-2 days,,THAWED
+324,FROZEN_ITEM,Soy crumbles and hotdogs,9 months,,FROZEN
+325,FROZEN_ITEM,Soy crumbles and hotdogs,3-4 days,,THAWED
+326,FROZEN_ITEM,Soy meat substitutes,12-18 months,,FROZEN
+327,FROZEN_ITEM,Soy meat substitutes,3-4 days,,THAWED
+328,FROZEN_ITEM,Tempeh,12 months,,FROZEN
+329,FROZEN_ITEM,Tempeh,1-2 weeks,,THAWED
+330,FROZEN_ITEM,"Topping, whipped",6 months,,FROZEN
+331,FROZEN_ITEM,"Topping, whipped",2 weeks,,THAWED
+332,FROZEN_ITEM,"TV Dinners, entrees,  breakfast",3 months,,FROZEN
+333,FROZEN_ITEM,"TV Dinners, entrees,  breakfast",,Do not defrost. Cook frozen.,THAWED
+334,FROZEN_ITEM,Vegetables,8 months,,FROZEN
+335,FROZEN_ITEM,Vegetables,3-4 days,,THAWED
+336,DELI_ITEM,"Main dishes or meals, hot or refrigerated",3-4 days,,REFRIGERATED
+337,DELI_ITEM,"Main dishes or meals, hot or refrigerated",2-3 months,,FROZEN
+338,DELI_ITEM,Meats covered with gravy or broth,1-2 days,,REFRIGERATED
+339,DELI_ITEM,Meats covered with gravy or broth,6 months,,FROZEN
+340,DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,2 weeks,,REFRIGERATED
+341,DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,,Do not freeze,FROZEN
+342,DELI_ITEM,"Chicken, rotisserie or fried",3-4 days,,REFRIGERATED
+343,DELI_ITEM,"Chicken, rotisserie or fried",4 months,,FROZEN
+344,DELI_ITEM,"Luncheon meats, store-sliced",3-5 days,,REFRIGERATED
+345,DELI_ITEM,"Luncheon meats, store-sliced",1-2 months,,FROZEN
+346,DELI_ITEM,Pate,1-2 days,,REFRIGERATED
+347,DELI_ITEM,Pate,1-2 months,,FROZEN
+348,DELI_ITEM,"Cheese, store-sliced, hard cheese such as cheddar or swiss",3-4 weeks,,REFRIGERATED
+349,DELI_ITEM,"Cheese, store-sliced, hard cheese such as cheddar or swiss",6 months,,FROZEN
+350,DELI_ITEM,"Cheese, soft (such as brie, bel paese, goat cheese, fresh mozzarella)",1 week,,REFRIGERATED
+351,DELI_ITEM,"Cheese, soft (such as brie, bel paese, goat cheese, fresh mozzarella)",6 months,,FROZEN
+352,DELI_ITEM,"Salads containing meat, fish, poultry or eggs",3-4 days,,REFRIGERATED
+353,DELI_ITEM,"Salads containing meat, fish, poultry or eggs",,Do not freeze,FROZEN
+354,DELI_ITEM,"Salads, vegetable",3-5 days,,REFRIGERATED
+355,DELI_ITEM,"Salads, vegetable",,Do not freeze,FROZEN
+356,DELI_ITEM,"Side dishes such as cooked vegetables, rice or potatoes",3-4 days,,REFRIGERATED
+357,DELI_ITEM,"Side dishes such as cooked vegetables, rice or potatoes",1-2 months,,FROZEN
+358,DELI_ITEM,Olives,2 weeks,,REFRIGERATED
+359,DELI_ITEM,Olives,,Do not freeze,FROZEN
+360,DELI_ITEM,Pudding,Package date,unopened,REFRIGERATED
+361,DELI_ITEM,Pudding,2 days,opened,REFRIGERATED
+362,DELI_ITEM,Pudding,,Do not freeze,FROZEN
+363,DELI_ITEM,"Fruit, cut",Package date,unopened,REFRIGERATED
+364,DELI_ITEM,"Fruit, cut",4 days,opened,REFRIGERATED
+365,DELI_ITEM,"Fruit, cut",,Do not freeze,FROZEN
+366,DELI_ITEM,Cheesecake,1 week,,REFRIGERATED
+367,DELI_ITEM,Cheesecake,2-3 months,,FROZEN
+368,SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",Use-by date,unopened,SHELF
+369,SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",2-3 days,opened,REFRIGERATED
+370,SHELF_ITEM,"Baby food, meats & eggs",Use-by date,unopened,SHELF
+371,SHELF_ITEM,"Baby food, meats & eggs",1 day,opened,REFRIGERATED
+372,SHELF_ITEM,"Baby food, cereal, dry mixes",Use-by date,unopened,SHELF
+373,SHELF_ITEM,"Baby food, cereal, dry mixes",2 months,opened,SHELF
+374,SHELF_ITEM,"Baby food, formula",Use-by date,unopened,SHELF
+375,SHELF_ITEM,"Baby food, formula",1-2 days,opened,REFRIGERATED
+376,SHELF_ITEM,"Bacon Bits, Imitation",4 months,unopened,SHELF
+377,SHELF_ITEM,"Bacon Bits, Imitation",refer to jar,opened,REFRIGERATED
+378,SHELF_ITEM,"Bacon Bits, Imitation",4 months,opened,SHELF
+379,SHELF_ITEM,"Beans, Dried",12 months,unopened,SHELF
+380,SHELF_ITEM,"Beans, Dried",12 months,opened,SHELF
+381,SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",2-5 years,unopened,SHELF
+382,SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",3-4 days,opened,REFRIGERATED
+383,SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",12-18 months,unopened,SHELF
+384,SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",5-7 days,opened,REFRIGERATED
+385,SHELF_ITEM,"Cereal, ready-to-eat",6-12 months,unopened,SHELF
+386,SHELF_ITEM,"Cereal, ready-to-eat",3 months,opened,SHELF
+387,SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",12 months,unopened,SHELF
+388,SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",6-12 months,opened,SHELF
+389,SHELF_ITEM,"Coffee, whole beans",1-3 weeks,unopened,SHELF
+390,SHELF_ITEM,"Coffee, whole beans",1 week,opened,SHELF
+391,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",2 years,unopened,SHELF
+392,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",1 week,opened,SHELF
+393,SHELF_ITEM,"Coffee, instant, jars and tins",12 months,unopened,SHELF
+394,SHELF_ITEM,"Coffee, instant, jars and tins",2-3 months,opened,SHELF
+395,SHELF_ITEM,"Coffee, whole beans",3-4 months,,FROZEN
+396,SHELF_ITEM,"Coffee, whole beans",2 weeks,opened,REFRIGERATED
+397,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",3-4 months,,FROZEN
+398,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",2 weeks,opened,REFRIGERATED
+399,SHELF_ITEM,"Coffee, instant, jars and tins",3-4 months,,FROZEN
+400,SHELF_ITEM,"Coffee, instant, jars and tins",2 weeks,opened,REFRIGERATED
+401,BAKING,Baking powder,6 months,unopened,SHELF
+402,BAKING,Baking powder,3 months,opened,SHELF
+403,BAKING,Baking soda,18 months,unopened,SHELF
+404,BAKING,Baking soda,6 months,opened,SHELF
+405,BAKING,Biscuit or pancake mix,15 months,unopened,SHELF
+406,BAKING,Biscuit or pancake mix,Pkg use-by date,opened,SHELF
+407,BAKING,"Cake, Brownie, Bread Mixes",12-18 months,unopened,SHELF
+408,BAKING,"Cake, Brownie, Bread Mixes",Pkg use-by date,opened,SHELF
+409,BAKING,"Cornmeal, regular, degerminated",6-12 months,unopened,SHELF
+410,BAKING,"Cornmeal, regular, degerminated",12 months,opened,REFRIGERATED
+411,BAKING,"Cornmeal, stone ground or blue",1 month,unopened,SHELF
+412,BAKING,"Cornmeal, stone ground or blue",2-3 months,opened,REFRIGERATED
+413,BAKING,Cornstarch,18 months,unopened,SHELF
+414,BAKING,Cornstarch,18 months,opened,SHELF
+415,BAKING,"Flour, white",6-12 months,unopened,SHELF
+416,BAKING,"Flour, white",6-8 months,opened,SHELF
+417,BAKING,"Flour, whole wheat",1 month,unopened,SHELF
+418,BAKING,"Flour, whole wheat",6-8 months,opened,REFRIGERATED
+419,BAKING,"Frosting, canned",10 months,unopened,SHELF
+420,BAKING,"Frosting, canned",1 week,opened,REFRIGERATED
+421,BAKING,"Frosting, canned",3 months,opened,SHELF
+422,BAKING,"Frosting, Frosting mixes",12 months,unopened,SHELF
+423,BAKING,"Frosting, Frosting mixes",3 months,opened,SHELF
+424,BAKING,"Chocolate, unsweetened and semi-sweet, solid",18-24 months,unopened,SHELF
+425,BAKING,"Chocolate, unsweetened and semi-sweet, solid",1 year,opened,SHELF
+426,BAKING,Chocolate syrup,2 years,unopened,SHELF
+427,BAKING,Chocolate syrup,6 months,opened,REFRIGERATED
+428,BAKING,Cocoa and Cocoa Mixes,Indefinitely,unopened,SHELF
+429,BAKING,Cocoa and Cocoa Mixes,1 year,opened,SHELF
+430,CONDIMENTS,"Barbecue sauce, bottled",12 months,unopened,SHELF
+431,CONDIMENTS,"Barbecue sauce, bottled",4 months,opened,REFRIGERATED
+432,CONDIMENTS,"Barbecue sauce, bottled",1 month,opened,SHELF
+433,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",12 months,unopened,SHELF
+434,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",6 months,opened,REFRIGERATED
+435,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",1 month,opened,SHELF
+436,CONDIMENTS,Chutney,12 months,unopened,SHELF
+437,CONDIMENTS,Chutney,1-2 months,opened,REFRIGERATED
+438,CONDIMENTS,"Horseradish, in jar",12 months,unopened,SHELF
+439,CONDIMENTS,"Horseradish, in jar",3-4 months,opened,REFRIGERATED
+440,CONDIMENTS,"Mayonnaise, commercial",2-3 months,unopened,SHELF
+441,CONDIMENTS,"Mayonnaise, commercial",2 months,opened,REFRIGERATED
+442,CONDIMENTS,Mustard,12 months,unopened,SHELF
+443,CONDIMENTS,Mustard,12 months,opened,REFRIGERATED
+444,CONDIMENTS,Mustard,1 month,opened,SHELF
+445,CONDIMENTS,"Olives, black and green",12-18 months,unopened,SHELF
+446,CONDIMENTS,"Olives, black and green",2 weeks,opened,REFRIGERATED
+447,CONDIMENTS,Pickles,12 months,unopened,SHELF
+448,CONDIMENTS,Pickles,1-2 weeks,opened,REFRIGERATED
+449,CONDIMENTS,"Salad Dressings, commercial, bottled",10-12 months,unopened,SHELF
+450,CONDIMENTS,"Salad Dressings, commercial, bottled",3 months,opened,REFRIGERATED
+451,CONDIMENTS,"Salsa, picante & taco sauces",12 months,unopened,SHELF
+452,CONDIMENTS,"Salsa, picante & taco sauces",1 month,opened,REFRIGERATED
+453,COOKIES,"Cookies, packaged",2 months,unopened,SHELF
+454,COOKIES,"Cookies, packaged",8-12 months,opened,FROZEN
+455,COOKIES,"Cookies, packaged",4 weeks,opened,SHELF
+456,CRACKERS,Crackers,8 months,unopened,SHELF
+457,CRACKERS,Crackers,3-4 months,opened,FROZEN
+458,CRACKERS,Crackers,3-4 months,opened,REFRIGERATED
+459,CRACKERS,Crackers,1 month,opened,SHELF
+460,SHELF_ITEM,Diet powder mixes,6 months,unopened,SHELF
+461,SHELF_ITEM,Diet powder mixes,3 months,opened,SHELF
+462,SHELF_ITEM,"Extracts, vanilla, lemon, etc.",3 years,unopened,SHELF
+463,SHELF_ITEM,"Extracts, vanilla, lemon, etc.",1 year,opened,SHELF
+464,SHELF_ITEM,"Fruits, dried",6 months,unopened,SHELF
+465,SHELF_ITEM,"Fruits, dried",6 months,opened,REFRIGERATED
+466,SHELF_ITEM,"Fruits, dried",1 month,opened,SHELF
+467,SHELF_ITEM,"Garlic, chopped",18 months,unopened,SHELF
+468,SHELF_ITEM,"Garlic, chopped",date on jar,opened,REFRIGERATED
+469,SHELF_ITEM,"Garlic, commercial jars",8 months,unopened,SHELF
+470,SHELF_ITEM,"Garlic, commercial jars",date on jar,opened,REFRIGERATED
+471,SHELF_ITEM,"Gelatin, flavored",18 months,unopened,SHELF
+472,SHELF_ITEM,"Gelatin, flavored",3-4 months,opened,SHELF
+473,SHELF_ITEM,"Gelatin, unflavored",3 years,unopened,SHELF
+474,SHELF_ITEM,"Gelatin, unflavored",3-4 months,opened,SHELF
+475,SHELF_ITEM,"Gravy, jars and cans",2-5 years,unopened,SHELF
+476,SHELF_ITEM,"Gravy, jars and cans",1-2 days,opened,REFRIGERATED
+477,SHELF_ITEM,"Gravy, jars and cans",,Use entire can,SHELF
+478,SHELF_ITEM,"Gravy, dry gravy mixes",2 years,unopened,SHELF
+479,SHELF_ITEM,"Gravy, dry gravy mixes",1-2 days,opened,REFRIGERATED
+480,SHELF_ITEM,"Gravy, dry gravy mixes",,Mix entire packet,SHELF
+481,SHELF_ITEM,"Herbs, dried",1-2 years,unopened,SHELF
+482,SHELF_ITEM,"Herbs, dried",1 year,"Cool, dark place",SHELF
+483,SHELF_ITEM,Honey,12 months,unopened,SHELF
+484,SHELF_ITEM,Honey,12 months,opened,SHELF
+485,SHELF_ITEM,"Jams, jellies, preserves",12 months,unopened,SHELF
+486,SHELF_ITEM,"Jams, jellies, preserves",6 months,opened,REFRIGERATED
+487,SHELF_ITEM,"Jerky, commercially dried",12 months,unopened,SHELF
+488,SHELF_ITEM,"Jerky, commercially dried",2-3 months,opened,REFRIGERATED
+489,SHELF_ITEM,"Jerky, homemade",1-2 months,opened,REFRIGERATED
+490,SHELF_ITEM,"Jerky, homemade",1-2 months,opened,SHELF
+491,SHELF_ITEM,"Juice, boxes",4-6 months,unopened,SHELF
+492,SHELF_ITEM,"Juice, boxes",8-12 days,opened,REFRIGERATED
+493,SHELF_ITEM,"Lentils, dried",12 months,unopened,SHELF
+494,SHELF_ITEM,"Lentils, dried",12 months,opened,SHELF
+495,SHELF_ITEM,"Marshmallows, marshmallow creme",2-4 months,unopened,SHELF
+496,SHELF_ITEM,"Marshmallows, marshmallow creme",1 month,opened,SHELF
+497,SHELF_ITEM,"Milk, canned evaporated",12 months,unopened,SHELF
+498,SHELF_ITEM,"Milk, canned evaporated",4-5 days,opened,REFRIGERATED
+499,SHELF_ITEM,Molasses,12 months,unopened,SHELF
+500,SHELF_ITEM,Molasses,6 months,opened,SHELF
+501,SHELF_ITEM,"Mushrooms, dried",6 months,unopened,SHELF
+502,SHELF_ITEM,"Mushrooms, dried",3 months,opened,SHELF
+503,SHELF_ITEM,"Oils, olive or vegetable",6 months,unopened,SHELF
+504,SHELF_ITEM,"Oils, olive or vegetable",4 months,opened,REFRIGERATED
+505,SHELF_ITEM,"Oils, olive or vegetable",1-3 months,opened,SHELF
+506,SHELF_ITEM,"Oils, nut oils",6 months,unopened,SHELF
+507,SHELF_ITEM,"Oils, vegetable oil sprays",2 years,unopened,SHELF
+508,SHELF_ITEM,"Oils, vegetable oil sprays",1 year,opened,SHELF
+509,SHELF_ITEM,"Nuts, jars or cans",12 months,unopened,SHELF
+510,SHELF_ITEM,"Nuts, jars or cans",4-6 months,opened,REFRIGERATED
+511,SHELF_ITEM,"Nuts, jars or cans",9-12 months,opened,FROZEN
+512,SHELF_ITEM,"Nuts, jars or cans",1 month,opened,SHELF
+513,SHELF_ITEM,"Pasta, dry, without eggs",2 years,unopened,SHELF
+514,SHELF_ITEM,"Pasta, dry, without eggs",1 year,opened,SHELF
+515,SHELF_ITEM,Dry egg noodles,2 years,unopened,SHELF
+516,SHELF_ITEM,Dry egg noodles,1-2 months,opened,SHELF
+517,SHELF_ITEM,"Peanut butter, commercial",6-9 months,unopened,SHELF
+518,SHELF_ITEM,"Peanut butter, commercial",2-3 months,opened,SHELF
+519,SHELF_ITEM,"Peas, dried split",12 months,unopened,SHELF
+520,SHELF_ITEM,"Peas, dried split",12 months,opened,SHELF
+521,SHELF_ITEM,Pectin,Use by pkg. date,unopened,SHELF
+522,SHELF_ITEM,Pectin,1 month,opened,SHELF
+523,SHELF_ITEM,"Popcorn, dry kernels in jar",2 years,unopened,SHELF
+524,SHELF_ITEM,"Popcorn, dry kernels in jar",1 year,opened,SHELF
+525,SHELF_ITEM,Commercially popped in bags,2-3 months,unopened,SHELF
+526,SHELF_ITEM,Commercially popped in bags,1-2 weeks,opened,SHELF
+527,SHELF_ITEM,Commercially microwave packets,12 months,unopened,SHELF
+528,SHELF_ITEM,Commercially microwave packets,1-2 days,popped,SHELF
+529,SHELF_ITEM,Potato chips,2 months,unopened,SHELF
+530,SHELF_ITEM,Potato chips,1-2 weeks,opened,SHELF
+531,SHELF_ITEM,"Potatoes, instant",6-12 months,unopened,SHELF
+532,SHELF_ITEM,"Potatoes, instant",6-12 months,opened,SHELF
+533,SHELF_ITEM,Pudding mixes,12 months,unopened,SHELF
+534,SHELF_ITEM,Pudding mixes,3-4 months,opened,SHELF
+535,SHELF_ITEM,"Rice, white or wild",2 years,unopened,SHELF
+536,SHELF_ITEM,"Rice, white or wild",6 months,opened,REFRIGERATED
+537,SHELF_ITEM,"Rice, white or wild",1 year,opened,SHELF
+538,SHELF_ITEM,"Rice, brown",1 year,unopened,SHELF
+539,SHELF_ITEM,"Rice, brown",6 months,opened,REFRIGERATED
+540,SHELF_ITEM,"Rice, brown",1 year,opened,SHELF
+541,SHELF_ITEM,"Rice, flavored or herb mixes",6 months,unopened,SHELF
+542,SHELF_ITEM,"Rice, flavored or herb mixes",6 months,opened,REFRIGERATED
+543,SHELF_ITEM,"Rice, flavored or herb mixes",,Use all,SHELF
+544,SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",2 years,unopened,SHELF
+545,SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",Use entire amount,opened,SHELF
+546,SHELF_ITEM,"Sauce mixes, nondairy cream sauces, milk solids",1 year,unopened,SHELF
+547,SHELF_ITEM,"Shortening, solid",8 months,unopened,SHELF
+548,SHELF_ITEM,"Shortening, solid",3 months,opened,SHELF
+549,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",3 mos. after date,unopened,SHELF
+550,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",2-3 days,opened,REFRIGERATED
+551,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",1 week,opened,SHELF
+552,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",3 mos. after date,unopened,SHELF
+553,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",2-3 days,opened,REFRIGERATED
+554,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",2 weeks,opened,SHELF
+555,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, cans",9 mos. after date,unopened,SHELF
+556,SHELF_ITEM,"Soup mixes, dry bouillon",12 months,unopened,SHELF
+557,SHELF_ITEM,"Soup mixes, dry bouillon",12 months,opened,SHELF
+558,SOY,"Soy or rice beverage, shelf stable",3 months or use-by date,unopened,SHELF
+559,SOY,"Soy or rice beverage, shelf stable",7-10 days,opened,REFRIGERATED
+560,SOY,"Soy or rice beverage, soy beverage powders",6 months,unopened,SHELF
+561,SOY,"Soy or rice beverage, soy beverage powders",3-4 months,opened,SHELF
+562,SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,unopened,SHELF
+563,SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,opened,SHELF
+564,SOY,"Soy or rice beverage, soy flour, full-fat",2 months,unopened,SHELF
+565,SOY,"Soy or rice beverage, soy flour, full-fat",6 months,opened,REFRIGERATED
+566,SOY,"Soy or rice beverage, Textured soy protein (TSP)",2 years,unopened,SHELF
+567,SOY,"Soy or rice beverage, Textured soy protein (TSP)",3-4 months,opened,SHELF
+568,SOY,"Soy or rice beverage, Re-hydrated TSP",3-4 months,unopened,SHELF
+569,SOY,"Soy or rice beverage, Re-hydrated TSP",3-4 days,opened,REFRIGERATED
+570,SHELF_ITEM,Spaghetti sauce in jars,18 months,unopened,SHELF
+571,SHELF_ITEM,Spaghetti sauce in jars,4 days,opened,REFRIGERATED
+572,SHELF_ITEM,"Spices, whole",2-4 years,unopened,SHELF
+573,SHELF_ITEM,"Spices, whole",2-4 years,opened,SHELF
+574,SHELF_ITEM,"Spices, ground",2-3 years,unopened,SHELF
+575,SHELF_ITEM,"Spices, ground",2-3 years,opened,SHELF
+576,SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",2 years,unopened,SHELF
+577,SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",2 years,opened,REFRIGERATED
+578,SHELF_ITEM,"Sugar, brown",4 months,,SHELF
+579,SHELF_ITEM,"Sugar, granulated",2 years,,SHELF
+580,SHELF_ITEM,"Sugar, confectioners",18 months,,SHELF
+581,SHELF_ITEM,"Sugar, sugar substitutes",2 years,,SHELF
+582,SHELF_ITEM,"Syrup, pancake",12 months,unopened,SHELF
+583,SHELF_ITEM,"Syrup, pancake",12 months,opened,SHELF
+584,SHELF_ITEM,"Syrup, genuine or real maple",12 months,unopened,SHELF
+585,SHELF_ITEM,"Syrup, genuine or real maple",12 months,opened,REFRIGERATED
+586,SHELF_ITEM,Tapioca,12 months,unopened,SHELF
+587,SHELF_ITEM,Tapioca,12 months,opened,SHELF
+588,SHELF_ITEM,"Tea, bags",18 months,unopened,SHELF
+589,SHELF_ITEM,"Tea, bags",12 months,opened,SHELF
+590,SHELF_ITEM,"Tea, loose",2 years,unopened,SHELF
+591,SHELF_ITEM,"Tea, loose",6-12 months,opened,SHELF
+592,SHELF_ITEM,"Tea, instant",3 years,unopened,SHELF
+593,SHELF_ITEM,"Tea, instant",6-12 months,opened,SHELF
+594,SHELF_ITEM,"Toaster pastries, fruit filled",6 months,unopened,SHELF
+595,SHELF_ITEM,"Toaster pastries, non-fruit fillings",6 months,unopened,SHELF
+596,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",12 months,unopened,SHELF
+597,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",6-12 months,opened,REFRIGERATED
+598,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",3-6 months,opened,SHELF
+599,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",9 months,unopened,SHELF
+600,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",6-12 months,opened,REFRIGERATED
+601,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",3-6 months,opened,SHELF
+602,SHELF_ITEM,Vinegar,2 years,unopened,SHELF
+603,SHELF_ITEM,Vinegar,12 months,opened,SHELF
+604,SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,unopened,SHELF
+605,SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,opened,REFRIGERATED
+606,SHELF_ITEM,"Water, bottled",1-2 years,unopened,SHELF
+607,SHELF_ITEM,"Water, bottled",3 months,opened,SHELF
+608,SHELF_ITEM,Worcestershire Sauce,1 year,unopened,SHELF
+609,SHELF_ITEM,Worcestershire Sauce,1 year,opened,SHELF
+610,BAKERY,"Bread, commercial*",2-4 days,,SHELF
+611,BAKERY,"Bread, commercial*",7-14 days,,REFRIGERATED
+612,BAKERY,"Bread, commercial*",3 months,,FROZEN
+613,BAKERY,"Bread, flat (tortillas, pita)",2-4 days,,SHELF
+614,BAKERY,"Bread, flat (tortillas, pita)",4-7 days,,REFRIGERATED
+615,BAKERY,"Bread, flat (tortillas, pita)",4 months,,FROZEN
+616,BAKERY,"Cakes, angel food",1-2 days,,SHELF
+617,BAKERY,"Cakes, angel food",1 week,,REFRIGERATED
+618,BAKERY,"Cakes, angel food",2 months,,FROZEN
+619,BAKERY,"Cakes, chiffon, sponge",1-2 day,,SHELF
+620,BAKERY,"Cakes, chiffon, sponge",1 week,,REFRIGERATED
+621,BAKERY,"Cakes, chiffon, sponge",2 months,,FROZEN
+622,BAKERY,"Cakes, chocolate",1-2 days,,SHELF
+623,BAKERY,"Cakes, chocolate",1 week,,REFRIGERATED
+624,BAKERY,"Cakes, chocolate",4 months,,FROZEN
+625,BAKERY,"Cakes, fruit cake",1 month,,SHELF
+626,BAKERY,"Cakes, fruit cake",6 months,,REFRIGERATED
+627,BAKERY,"Cakes, fruit cake",12 months,,FROZEN
+628,BAKERY,"Cakes, made from mix",3-4 days,,SHELF
+629,BAKERY,"Cakes, made from mix",1 week,,REFRIGERATED
+630,BAKERY,"Cakes, made from mix",4 months,,FROZEN
+631,BAKERY,"Cakes, pound cake",3-4 days,,SHELF
+632,BAKERY,"Cakes, pound cake",1 week,,REFRIGERATED
+633,BAKERY,"Cakes, pound cake",6 months,,FROZEN
+634,BAKERY,Cheesecake,1 week,,REFRIGERATED
+635,BAKERY,Cheesecake,2-3 months,,FROZEN
+636,BAKERY,"Cookies, bakery or homemade",2-3 weeks,,SHELF
+637,BAKERY,"Cookies, bakery or homemade",2 months,,REFRIGERATED
+638,BAKERY,"Cookies, bakery or homemade",8-12 months,,FROZEN
+639,BAKERY,"Croissants, butter",1 day,,SHELF
+640,BAKERY,"Croissants, butter",1 week,,REFRIGERATED
+641,BAKERY,"Croissants, butter",2 months,,FROZEN
+642,BAKERY,"Doughnuts, glazed or cake",1-2 days,,SHELF
+643,BAKERY,"Doughnuts, glazed or cake",1 month,,FROZEN
+644,BAKERY,"Doughnuts, glazed or cake, dairy cream filled",3-4 days,,REFRIGERATED
+645,BAKERY,"Eclairs, dairy cream filled",3-4 days,,REFRIGERATED
+646,BAKERY,Muffins,1-2 days,,SHELF
+647,BAKERY,Muffins,1 week,,REFRIGERATED
+648,BAKERY,Muffins,2 months,,FROZEN
+649,BAKERY,"Pastries, danish",1-2 days,,SHELF
+650,BAKERY,"Pastries, danish",1 week,,REFRIGERATED
+651,BAKERY,"Pastries, danish",2 months,,FROZEN
+652,BAKERY,"Pies, cream",3-4 days,,REFRIGERATED
+653,BAKERY,"Pies, chiffon",1-2 days,,REFRIGERATED
+654,BAKERY,"Pies, fruit",1-2 days,,SHELF
+655,BAKERY,"Pies, fruit",1 week,,REFRIGERATED
+656,BAKERY,"Pies, fruit",8 months,,FROZEN
+657,BAKERY,"Pies, mincemeat",2 hours,,SHELF
+658,BAKERY,"Pies, mincemeat",1 week,,REFRIGERATED
+659,BAKERY,"Pies, mincemeat",8 months,,FROZEN
+660,BAKERY,"Pies, pecan",2 hours,,SHELF
+661,BAKERY,"Pies, pecan",3-4 days,,REFRIGERATED
+662,BAKERY,"Pies, pecan",1-2 months,,FROZEN
+663,BAKERY,"Pies, pumpkin",2 hours,,SHELF
+664,BAKERY,"Pies, pumpkin",3-4 days,,REFRIGERATED
+665,BAKERY,"Pies, pumpkin",1-2 months,,FROZEN
+666,BAKERY,Quiche,2 hours,,SHELF
+667,BAKERY,Quiche,3-4 days,,REFRIGERATED
+668,BAKERY,Quiche,2 months,,FROZEN
+669,BAKERY,"Rolls, yeast, baked",3-4 days,,SHELF
+670,BAKERY,"Rolls, yeast, baked",1 week,,REFRIGERATED
+671,BAKERY,"Rolls, yeast, baked",2 months,,FROZEN
+672,BAKERY,"Rolls, yeast, partially baked",Package date,,SHELF
+673,BAKERY,"Rolls, yeast, partially baked",1 week,,REFRIGERATED
+674,BAKERY,"Rolls, yeast, partially baked",2 months,,FROZEN
+675,BAKERY,"Rolls, filled, meat or vegetables",2 hours,,SHELF
+676,BAKERY,"Rolls, filled, meat or vegetables",3-4 days,,REFRIGERATED
+677,BAKERY,"Rolls, filled, meat or vegetables",2 months,,FROZEN
+678,BAKERY,"Doughnuts, glazed or cake",1 week,G,REFRIGERATED
+0,BEVERAGES,"Juice in cartons, fruit drinks, punch",3 weeks,unopened,REFRIGERATED
+1,BEVERAGES,"Juice in cartons, fruit drinks, punch",7-10 days,opened,REFRIGERATED
+2,BEVERAGES,"Juice in cartons, fruit drinks, punch",8-12 months,,FROZEN
+3,DIARY,Butter,1-3 months,,REFRIGERATED
+4,DIARY,Butter,6-9 months,,FROZEN
+5,DIARY,Buttermilk,1-2 weeks,,REFRIGERATED
+6,DIARY,Buttermilk,3 months,,FROZEN
+7,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",6 months,unopened,REFRIGERATED
+8,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",6 months,,FROZEN
+9,DIARY,"Cheese, hard (such as cheddar,  swiss, block parmesan)",3-4 weeks,opened,REFRIGERATED
+10,DIARY,"Parmesan, shredded",1 month,opened,REFRIGERATED
+11,DIARY,"Parmesan, shredded",3-4 months,,FROZEN
+12,DIARY,"Shredded cheddar, mozzarella, etc.",1 month,,REFRIGERATED
+13,DIARY,"Shredded cheddar, mozzarella, etc.",3-4 months,,FROZEN
+14,DIARY,"Cheese, processed slices",1-2 months,,REFRIGERATED
+15,DIARY,"Cheese, processed slices",,Do not freeze,FROZEN
+16,DIARY,"Cheese, soft (such as Brie, Bel Paese)",1 week,,REFRIGERATED
+17,DIARY,"Cheese, soft (such as Brie, Bel Paese)",6 months,,FROZEN
+18,DIARY,"Cottage cheese, ricotta",1 week,,REFRIGERATED
+19,DIARY,"Cottage cheese, ricotta",,Do not freeze,FROZEN
+20,DIARY,Cream cheese,2 weeks,,REFRIGERATED
+21,DIARY,Cream cheese,,Do not freeze,FROZEN
+22,DIARY,"Cream, whipping, ultrapasteurized",1 month,,REFRIGERATED
+23,DIARY,"Cream, whipping, ultrapasteurized",,Do not freeze,FROZEN
+24,DIARY,"Whipped, sweetened",1 day,,REFRIGERATED
+25,DIARY,"Whipped, sweetened",1-2 months,,FROZEN
+26,DIARY,"Aerosol can, real whipped cream",3-4 weeks,,REFRIGERATED
+27,DIARY,"Aerosol can, real whipped cream",,Do not freeze,FROZEN
+28,DIARY,"Aerosol can, nondairy topping",3 months,,REFRIGERATED
+29,DIARY,"Aerosol can, nondairy topping",,Do not freeze,FROZEN
+30,DIARY,"Cream, half-and-half",3-4 days,,REFRIGERATED
+31,DIARY,"Cream, half-and-half",4 months,,FROZEN
+32,DIARY,"Dips, sour cream based",2 weeks,,REFRIGERATED
+33,DIARY,"Dips, sour cream based",,Do not freeze,FROZEN
+34,DIARY,"Egg substitutes, liquid",10 days,unopened,REFRIGERATED
+35,DIARY,"Egg substitutes, liquid",3 days,opened,REFRIGERATED
+36,DIARY,"Egg substitutes, liquid",,Do not freeze,FROZEN
+37,DIARY,"Eggnog, commercial",3-5 days,,REFRIGERATED
+38,DIARY,"Eggnog, commercial",6 months,,FROZEN
+39,DIARY,"Eggs, in shell",3-5 weeks,,REFRIGERATED
+40,DIARY,"Eggs, in shell",,Do not freeze,FROZEN
+41,DIARY,"Eggs, raw whites, yolks*",2-4 days,,REFRIGERATED
+42,DIARY,"Eggs, raw whites, yolks*",12 months,,FROZEN
+43,DIARY,"Eggs, hard cooked",1 week,,REFRIGERATED
+44,DIARY,"Eggs, hard cooked",,Do not freeze,FROZEN
+45,DIARY,Kefir (fermented milk),1 week after date,unopened,REFRIGERATED
+46,DIARY,Kefir (fermented milk),1-2 days,opened,REFRIGERATED
+47,DIARY,Kefir (fermented milk),,Do not freeze,FROZEN
+48,DIARY,Margarine,6 months,,REFRIGERATED
+49,DIARY,Margarine,12 months,,FROZEN
+50,DIARY,"Milk, plain or flavored",1 week,,REFRIGERATED
+51,DIARY,"Milk, plain or flavored",3 months,,FROZEN
+52,DIARY,Pudding,Package date,unopened,REFRIGERATED
+53,DIARY,Pudding,2 days,opened,REFRIGERATED
+54,DIARY,Pudding,,Do not freeze,FROZEN
+55,DIARY,Sour cream,7-21 days,,REFRIGERATED
+56,DIARY,Sour cream,Do not freeze,,FROZEN
+57,DIARY,Yogurt,7-14 days,,REFRIGERATED
+58,DIARY,Yogurt,1-2 months,,FROZEN
+59,DOUGH,"Tube cans of biscuits, rolls, pizza dough, etc.",Use-by date,,REFRIGERATED
+60,DOUGH,"Tube cans of biscuits, rolls, pizza dough, etc.",,Do not freeze,FROZEN
+61,DOUGH,Ready-to-bake pie crust,Use-by date,,REFRIGERATED
+62,DOUGH,Ready-to-bake pie crust,2 months,,FROZEN
+63,DOUGH,Cookie dough,Use by date,unopened,REFRIGERATED
+64,DOUGH,Cookie dough,Use by date,opened,REFRIGERATED
+65,DOUGH,Cookie dough,2 months,,FROZEN
+66,PASTA,"Pasta, fresh",1-2 days,,REFRIGERATED
+67,PASTA,"Pasta, fresh",package date,,REFRIGERATED
+68,PASTA,"Pasta, fresh",2 months,,FROZEN
+69,PESTO,Pesto or Sala,package date,unopened,REFRIGERATED
+70,PESTO,Pesto or Sala,3 days,opened,REFRIGERATED
+71,PESTO,Pesto or Sala,1-2 months,,FROZEN
+72,SOY,"Soy or rice beverage, refrigerated",7-10 days,,REFRIGERATED
+73,SOY,"Soy or rice beverage, refrigerated",,Do not freeze,FROZEN
+74,SOY,Tofu,1 week,,REFRIGERATED
+75,SOY,Tofu,5 months,,FROZEN
+76,SOY,Miso,3 months,,REFRIGERATED
+77,SOY,Miso,,Do not freeze,FROZEN
+78,FISH,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",1-2 days,,REFRIGERATED
+79,FISH,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",6-8 months,,FROZEN
+80,FISH,"Lean fish (pollock, ocean perch, rockfish, sea trout)",1-2 days,,REFRIGERATED
+81,FISH,"Lean fish (pollock, ocean perch, rockfish, sea trout)",4 months,,FROZEN
+82,FISH,"Fatty fish (bluefish, mackerel, mullet, salmon, tuna, etc.)",1-2 days,,REFRIGERATED
+83,FISH,"Fatty fish (bluefish, mackerel, mullet, salmon, tuna, etc.)",2-3 months,,FROZEN
+84,FISH,"Caviar, fresh, in jar",1-4 weeks,unopened,REFRIGERATED
+85,FISH,"Caviar, fresh, in jar",2 days,opened,REFRIGERATED
+86,FISH,"Caviar, fresh, in jar",,Do not freeze,FROZEN
+87,FISH,"Cooked fish, all",3-4 days,,REFRIGERATED
+88,FISH,"Cooked fish, all",1-2 months,,FROZEN
+89,FISH,Surimi seafood,3-4 days,,REFRIGERATED
+90,FISH,Surimi seafood,package date,,REFRIGERATED
+91,FISH,Surimi seafood,9 months,,FROZEN
+92,SHELLFISH,"Shrimp, scallops, crayfish, squid",1-2 days,,REFRIGERATED
+93,SHELLFISH,"Shrimp, scallops, crayfish, squid",3-6 months,,FROZEN
+94,SHELLFISH,"Shucked clams, mussels and oysters",1-2 days,,REFRIGERATED
+95,SHELLFISH,"Shucked clams, mussels and oysters",3-4 months,,FROZEN
+96,SHELLFISH,"Crab meat, fresh",1-2 days,,REFRIGERATED
+97,SHELLFISH,"Crab meat, fresh",4 months,,FROZEN
+98,SHELLFISH,"Crab meat, pasteurized",6 months,unopened,REFRIGERATED
+99,SHELLFISH,"Crab meat, pasteurized",3-5 days,opened,REFRIGERATED
+100,SHELLFISH,"Crab meat, pasteurized",4 months,,FROZEN
+101,SHELLFISH,"Crab legs, king, dungeness, snow",5 days,,REFRIGERATED
+102,SHELLFISH,"Crab legs, king, dungeness, snow",9-12 months,,FROZEN
+103,SHELLFISH,"Live clams, mussels, crab and oysters",1-2 days,,REFRIGERATED
+104,SHELLFISH,"Live clams, mussels, crab and oysters",2-3 months,,FROZEN
+105,SHELLFISH,Live lobsters,1-2 days,,REFRIGERATED
+106,SHELLFISH,Live lobsters,2-3 months,,FROZEN
+107,SHELLFISH,Lobster tails,1-2 days,,REFRIGERATED
+108,SHELLFISH,Lobster tails,6 months,,FROZEN
+109,SHELLFISH,"Cooked shellfish, all",3-4 days,,REFRIGERATED
+110,SHELLFISH,"Cooked shellfish, all",3 months,,FROZEN
+111,SMOKEDFISH,Herring,3-4 days,,REFRIGERATED
+112,SMOKEDFISH,Herring,2 months,,FROZEN
+113,SMOKEDFISH,"Salmon, whitefish, cold-smoked",5-8 days,,REFRIGERATED
+114,SMOKEDFISH,"Salmon, whitefish, cold-smoked",2 months,,FROZEN
+115,SMOKEDFISH,"Salmon, whitefish, hot smoked",14 days,,REFRIGERATED
+116,SMOKEDFISH,"Salmon, whitefish, hot smoked",package date,,REFRIGERATED
+117,SMOKEDFISH,"Salmon, whitefish, hot smoked",6 months,vacuum pkg,FROZEN
+118,FRESH_MEAT,"Beef, lamb, pork or veal chops, steaks,roasts",3-5 days,,REFRIGERATED
+119,FRESH_MEAT,"Beef, lamb, pork or veal chops, steaks,roasts",4-12 months,,FROZEN
+120,FRESH_MEAT,Ground meat,1-2 days,,REFRIGERATED
+121,FRESH_MEAT,Ground meat,3-4 months,,FROZEN
+122,FRESH_MEAT,"Variety meats (liver, tongue, chitterlings, etc.)",1-2 days,,REFRIGERATED
+123,FRESH_MEAT,"Variety meats (liver, tongue, chitterlings, etc.)",3-4 months,,FROZEN
+124,FRESH_MEAT,Cooked meats (after home cooking),3-4 days,,REFRIGERATED
+125,FRESH_MEAT,Cooked meats (after home cooking),2-3 months,,FROZEN
+126,PROCESSED_MEAT,Bacon,1 week,,REFRIGERATED
+127,PROCESSED_MEAT,Bacon,1 month,,FROZEN
+128,PROCESSED_MEAT,"Corned beef, in pouch with pickling juices",5-7 days,,REFRIGERATED
+129,PROCESSED_MEAT,"Corned beef, in pouch with pickling juices",1 month,,FROZEN
+130,PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",6-9 months,,REFRIGERATED
+131,PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",,Do not freeze,FROZEN
+132,PROCESSED_MEAT,"Ham, fully cooked, whole",1 week,,REFRIGERATED
+133,PROCESSED_MEAT,"Ham, fully cooked, whole",1-2 months,,FROZEN
+134,PROCESSED_MEAT,"Ham, fully cooked, slices or half",3-4 days,,REFRIGERATED
+135,PROCESSED_MEAT,"Ham, fully cooked, slices or half",1-2 months,,FROZEN
+136,PROCESSED_MEAT,"Ham, cook before eating",1 week,,REFRIGERATED
+137,PROCESSED_MEAT,"Ham, cook before eating",1-2 months,,FROZEN
+138,PROCESSED_MEAT,"Hot dogs, sealed in package",2 weeks,,REFRIGERATED
+139,PROCESSED_MEAT,"Hot dogs, sealed in package",1-2 months,,FROZEN
+140,PROCESSED_MEAT,"Hot dogs, after opening",1 week,,REFRIGERATED
+141,PROCESSED_MEAT,"Hot dogs, after opening",1-2 months,,FROZEN
+142,PROCESSED_MEAT,"Lunch meats, sealed in package",2 weeks,,REFRIGERATED
+143,PROCESSED_MEAT,"Lunch meats, sealed in package",1-2 months,,FROZEN
+144,PROCESSED_MEAT,"Lunch meats, after opening",3-5 days,,REFRIGERATED
+145,PROCESSED_MEAT,"Lunch meats, after opening",1-2 months,,FROZEN
+146,PROCESSED_MEAT,"Sausage, raw, bulk type",1-2 days,,REFRIGERATED
+147,PROCESSED_MEAT,"Sausage, raw, bulk type",1-2 months,,FROZEN
+148,PROCESSED_MEAT,"Sausage, smoked links, patties",1 week,,REFRIGERATED
+149,PROCESSED_MEAT,"Sausage, smoked links, patties",1-2 months,,FROZEN
+150,PROCESSED_MEAT,"Sausage, hard, dry (pepperoni), sliced",2-3 weeks,,REFRIGERATED
+151,PROCESSED_MEAT,"Sausage, hard, dry (pepperoni), sliced",1-2 months,,FROZEN
+152,FRESH_POULTRY,"Chicken or turkey, whole",1-2 days,,REFRIGERATED
+153,FRESH_POULTRY,"Chicken or turkey, whole",12 months,,FROZEN
+154,FRESH_POULTRY,"Chicken or turkey, parts",1-2 days,,REFRIGERATED
+155,FRESH_POULTRY,"Chicken or turkey, parts",9 months,,FROZEN
+156,FRESH_POULTRY,"Duckling or goose, whole",1-2 days,,REFRIGERATED
+157,FRESH_POULTRY,"Duckling or goose, whole",6 months,,FROZEN
+158,FRESH_POULTRY,Giblets,1-2 days,,REFRIGERATED
+159,FRESH_POULTRY,Giblets,3-4 months,,FROZEN
+160,PROCESSED_POULTRY,"Chicken nuggets, patties",1-2 days,,REFRIGERATED
+161,PROCESSED_POULTRY,"Chicken nuggets, patties",1-3 months,,FROZEN
+162,PROCESSED_POULTRY,Cooked poultry dishes,3-4 days,,REFRIGERATED
+163,PROCESSED_POULTRY,Cooked poultry dishes,4-6 months,,FROZEN
+164,PROCESSED_POULTRY,Fried chicken,3-4 days,,REFRIGERATED
+165,PROCESSED_POULTRY,Fried chicken,4 months,,FROZEN
+166,PROCESSED_POULTRY,Ground turkey or chicken,1-2 days,,REFRIGERATED
+167,PROCESSED_POULTRY,Ground turkey or chicken,3-4 months,,FROZEN
+168,PROCESSED_POULTRY,"Lunch meats, sealed in package",2 weeks,,REFRIGERATED
+169,PROCESSED_POULTRY,"Lunch meats, sealed in package",1-2 months,,FROZEN
+170,PROCESSED_POULTRY,"Lunch meats, after opening",3-5 days,,REFRIGERATED
+171,PROCESSED_POULTRY,"Lunch meats, after opening",1-2 months,,FROZEN
+172,PROCESSED_POULTRY,Pieces covered with broth or gravy,1-2 days,,REFRIGERATED
+173,PROCESSED_POULTRY,Pieces covered with broth or gravy,6 months,,FROZEN
+174,PROCESSED_POULTRY,Rotisserie chicken,3-4 days,,REFRIGERATED
+175,PROCESSED_POULTRY,Rotisserie chicken,4 months,,FROZEN
+176,FRUIT,Apples,3 weeks,,REFRIGERATED
+177,FRUIT,Apples,8 months,Cooked,FROZEN
+178,FRUIT,Apricots,2-3 days,,REFRIGERATED
+179,FRUIT,Apricots,,Do not freeze,FROZEN
+180,FRUIT,Avocados,3-4 days,,REFRIGERATED
+181,FRUIT,Avocados,,Do not freeze,FROZEN
+182,FRUIT,Bananas,2 days,skin will blacken,REFRIGERATED
+183,FRUIT,Bananas,1 month,Whole peeled,FROZEN
+184,FRUIT,"Berries, cherries",1-2 days,,REFRIGERATED
+185,FRUIT,"Berries, cherries",4 months,,FROZEN
+186,FRUIT,Citrus Fruit,1-2 weeks,,REFRIGERATED
+187,FRUIT,Citrus Fruit,,Do not freeze,FROZEN
+188,FRUIT,Coconuts,2-3 weeks,fresh,REFRIGERATED
+189,FRUIT,Coconuts,6 months,Shredded,FROZEN
+190,FRUIT,Grapes,1 week,,REFRIGERATED
+191,FRUIT,Grapes,1 month,Whole,FROZEN
+192,FRUIT,Kiwi Fruit,3-4 days,,REFRIGERATED
+193,FRUIT,Kiwi Fruit,,Do not freeze,FROZEN
+194,FRUIT,Melons,3-4 days,,REFRIGERATED
+195,FRUIT,Melons,1 month,Balls,FROZEN
+196,FRUIT,"Papaya, mango",1 week,,REFRIGERATED
+197,FRUIT,"Papaya, mango",,Do not freeze,FROZEN
+198,FRUIT,"Peaches, nectarines",3-4 days,,REFRIGERATED
+199,FRUIT,"Peaches, nectarines",2 months,"Sliced, lemon juice & sugar",FROZEN
+200,FRUIT,"Pears, Plums",3-4 days,,REFRIGERATED
+201,FRUIT,"Pears, Plums",,Do not freeze,FROZEN
+202,VEGETABLES,"Artichokes, whole",1-2 weeks,,REFRIGERATED
+203,VEGETABLES,"Artichokes, whole",,Do not freeze,FROZEN
+204,VEGETABLES,Asparagus,3-4 days,,REFRIGERATED
+205,VEGETABLES,Asparagus,8 months,,FROZEN
+206,VEGETABLES,"Beans, green or wax",3-4 days,,REFRIGERATED
+207,VEGETABLES,"Beans, green or wax",8 months,,FROZEN
+208,VEGETABLES,Beets,7-10 days,,REFRIGERATED
+209,VEGETABLES,Beets,6-8 months,,FROZEN
+210,VEGETABLES,Bok choy,2-3days,,REFRIGERATED
+211,VEGETABLES,Bok choy,10-12 months,,FROZEN
+212,VEGETABLES,"Broccoli, raab, rapini",3-5 days,,REFRIGERATED
+213,VEGETABLES,"Broccoli, raab, rapini",10-12 months,,FROZEN
+214,VEGETABLES,Brussels sprouts,3-5 days,,REFRIGERATED
+215,VEGETABLES,Brussels sprouts,10-12 months,,FROZEN
+216,VEGETABLES,Cauliflower,3-5 days,,REFRIGERATED
+217,VEGETABLES,Cauliflower,10-12 months,,FROZEN
+218,VEGETABLES,Cabbage,1-2 weeks,,REFRIGERATED
+219,VEGETABLES,Cabbage,10-12 months,,FROZEN
+220,VEGETABLES,"Carrots, parsnips",3 weeks,,REFRIGERATED
+221,VEGETABLES,"Carrots, parsnips",10-12 months,,FROZEN
+222,VEGETABLES,Celery,1-2 weeks,,REFRIGERATED
+223,VEGETABLES,Celery,10-12 months,,FROZEN
+224,VEGETABLES,Corn on the cob,1-2 days,,REFRIGERATED
+225,VEGETABLES,Corn on the cob,8 months,,FROZEN
+226,VEGETABLES,Cucumbers,4-5 days,,REFRIGERATED
+227,VEGETABLES,Cucumbers,,Do not freeze,FROZEN
+228,VEGETABLES,Eggplant,3-4 days,,REFRIGERATED
+229,VEGETABLES,Eggplant,6-8 months,,FROZEN
+230,VEGETABLES,Garlic,1-2 weeks,,REFRIGERATED
+231,VEGETABLES,Garlic,1 month,,FROZEN
+232,VEGETABLES,Ginger Root,1-2 weeks,,REFRIGERATED
+233,VEGETABLES,Ginger Root,1 month,,FROZEN
+234,VEGETABLES,Greens,1-2 days,,REFRIGERATED
+235,VEGETABLES,Greens,10-12 months,,FROZEN
+236,VEGETABLES,"Herbs, fresh",7-10 days,,REFRIGERATED
+237,VEGETABLES,"Herbs, fresh",1-2 months,,FROZEN
+238,VEGETABLES,Leeks,1-2 weeks,,REFRIGERATED
+239,VEGETABLES,Leeks,10-12 months,,FROZEN
+240,VEGETABLES,"Lettuce, iceberg",1-2 weeks,,REFRIGERATED
+241,VEGETABLES,"Lettuce, iceberg",,Do not freeze,FROZEN
+242,VEGETABLES,"Lettuce, leaf",3-7 days,,REFRIGERATED
+243,VEGETABLES,"Lettuce, leaf",,Do not freeze,FROZEN
+244,VEGETABLES,Mushrooms,2-3 days,,REFRIGERATED
+245,VEGETABLES,Mushrooms,10-12 months,,FROZEN
+246,VEGETABLES,Okra,2-3 days,,REFRIGERATED
+247,VEGETABLES,Okra,10-12 months,,FROZEN
+248,VEGETABLES,"Onions, dry",2 months,,REFRIGERATED
+249,VEGETABLES,"Onions, dry",10-12 months,,FROZEN
+250,VEGETABLES,"Onions, Spring or green",1-2 weeks,,REFRIGERATED
+251,VEGETABLES,"Onions, Spring or green",10-12 months,,FROZEN
+252,VEGETABLES,"Parsley, cilantro",1 week,,REFRIGERATED
+253,VEGETABLES,"Parsley, cilantro",1-2 months,,FROZEN
+254,VEGETABLES,"Peppers, bell or chile",4-5 days,,REFRIGERATED
+255,VEGETABLES,"Peppers, bell or chile",6-8 months,,FROZEN
+256,VEGETABLES,Potatoes,1-2 weeks,,REFRIGERATED
+257,VEGETABLES,Potatoes,10-12 months,Cooked and mashed,FROZEN
+258,VEGETABLES,Radishes,10-14 days,,REFRIGERATED
+259,VEGETABLES,Radishes,,Do not freeze,FROZEN
+260,VEGETABLES,Rutabagas,2 weeks,,REFRIGERATED
+261,VEGETABLES,Rutabagas,8-10 months,,FROZEN
+262,VEGETABLES,Spinach,1-2 days,,REFRIGERATED
+263,VEGETABLES,Spinach,10-12 months,,FROZEN
+264,VEGETABLES,"Squash, summer",4-5 days,,REFRIGERATED
+265,VEGETABLES,"Squash, summer",10-12 months,,FROZEN
+266,VEGETABLES,"Squash, winter",2 weeks,,REFRIGERATED
+267,VEGETABLES,"Squash, winter",10-12 months,,FROZEN
+268,VEGETABLES,Turnips,2 weeks,,REFRIGERATED
+269,VEGETABLES,Turnips,8-10 months,,FROZEN
+270,VEGETABLES,Tomatoes,2-3 days,,REFRIGERATED
+271,VEGETABLES,Tomatoes,2 months,,FROZEN
+272,FROZEN_ITEM,Bagels,2 months,,FROZEN
+273,FROZEN_ITEM,Bagels,1-2 weeks,,THAWED
+274,FROZEN_ITEM,"Bread Dough, commercial",Use-by date,,FROZEN
+275,FROZEN_ITEM,"Bread Dough, commercial",4-7 days,After baking,THAWED
+276,FROZEN_ITEM,"Burritos, sandwiches",2 months,,FROZEN
+277,FROZEN_ITEM,"Burritos, sandwiches",3-4 days,,THAWED
+278,FROZEN_ITEM,Egg substitutes,12 months,,FROZEN
+279,FROZEN_ITEM,Egg substitutes,Date on Carton,,THAWED
+280,FROZEN_ITEM,"Fish, breaded",3-6 months,,FROZEN
+281,FROZEN_ITEM,"Fish, breaded",,Do not defrost. Cook frozen.,THAWED
+282,FROZEN_ITEM,"Fish, raw",6 months,,FROZEN
+283,FROZEN_ITEM,"Fish, raw",1-2 days,,THAWED
+284,FROZEN_ITEM,"Fruit such as berries, melons",4-6 months,,FROZEN
+285,FROZEN_ITEM,"Fruit such as berries, melons",4-5 days,,THAWED
+286,FROZEN_ITEM,Guacamole,3-4 months,,FROZEN
+287,FROZEN_ITEM,Guacamole,3-4 days,,THAWED
+288,FROZEN_ITEM,Ice cream,2-4 months,,FROZEN
+289,FROZEN_ITEM,Juice concentrates,6-12 months,,FROZEN
+290,FROZEN_ITEM,Juice concentrates,7-10 days,,THAWED
+291,FROZEN_ITEM,Lobster tails,3 months,,FROZEN
+292,FROZEN_ITEM,Lobster tails,2 days,,THAWED
+293,FROZEN_ITEM,"Pancakes, Waffles",2 months,,FROZEN
+294,FROZEN_ITEM,"Pancakes, Waffles",3-4 days,,THAWED
+295,FROZEN_ITEM,"Sausages, uncooked",1-2 months,,FROZEN
+296,FROZEN_ITEM,"Sausages, uncooked",1-2 days,,THAWED
+297,FROZEN_ITEM,"Sausages, precooked",1-2 months,,FROZEN
+298,FROZEN_ITEM,"Sausages, precooked",1 week,,THAWED
+299,FROZEN_ITEM,"Sherbet, sorbet",2-4 months,,FROZEN
+300,FROZEN_ITEM,"Shrimp, shellfish",12 months,,FROZEN
+301,FROZEN_ITEM,"Shrimp, shellfish",1-2 days,,THAWED
+302,FROZEN_ITEM,Soy crumbles and hotdogs,9 months,,FROZEN
+303,FROZEN_ITEM,Soy crumbles and hotdogs,3-4 days,,THAWED
+304,FROZEN_ITEM,Soy meat substitutes,12-18 months,,FROZEN
+305,FROZEN_ITEM,Soy meat substitutes,3-4 days,,THAWED
+306,FROZEN_ITEM,Tempeh,12 months,,FROZEN
+307,FROZEN_ITEM,Tempeh,1-2 weeks,,THAWED
+308,FROZEN_ITEM,"Topping, whipped",6 months,,FROZEN
+309,FROZEN_ITEM,"Topping, whipped",2 weeks,,THAWED
+310,FROZEN_ITEM,"TV Dinners, entrees,  breakfast",3 months,,FROZEN
+311,FROZEN_ITEM,"TV Dinners, entrees,  breakfast",,Do not defrost. Cook frozen.,THAWED
+312,FROZEN_ITEM,Vegetables,8 months,,FROZEN
+313,FROZEN_ITEM,Vegetables,3-4 days,,THAWED
+314,DELI_ITEM,"Main dishes or meals, hot or refrigerated",3-4 days,,REFRIGERATED
+315,DELI_ITEM,"Main dishes or meals, hot or refrigerated",2-3 months,,FROZEN
+316,DELI_ITEM,Meats covered with gravy or broth,1-2 days,,REFRIGERATED
+317,DELI_ITEM,Meats covered with gravy or broth,6 months,,FROZEN
+318,DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,2 weeks,,REFRIGERATED
+319,DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,,Do not freeze,FROZEN
+320,DELI_ITEM,"Chicken, rotisserie or fried",3-4 days,,REFRIGERATED
+321,DELI_ITEM,"Chicken, rotisserie or fried",4 months,,FROZEN
+322,DELI_ITEM,"Luncheon meats, store-sliced",3-5 days,,REFRIGERATED
+323,DELI_ITEM,"Luncheon meats, store-sliced",1-2 months,,FROZEN
+324,DELI_ITEM,Pate,1-2 days,,REFRIGERATED
+325,DELI_ITEM,Pate,1-2 months,,FROZEN
+326,DELI_ITEM,"Cheese, store-sliced, hard cheese such as cheddar or swiss",3-4 weeks,,REFRIGERATED
+327,DELI_ITEM,"Cheese, store-sliced, hard cheese such as cheddar or swiss",6 months,,FROZEN
+328,DELI_ITEM,"Cheese, soft (such as brie, bel paese, goat cheese, fresh mozzarella)",1 week,,REFRIGERATED
+329,DELI_ITEM,"Cheese, soft (such as brie, bel paese, goat cheese, fresh mozzarella)",6 months,,FROZEN
+330,DELI_ITEM,"Salads containing meat, fish, poultry or eggs",3-4 days,,REFRIGERATED
+331,DELI_ITEM,"Salads containing meat, fish, poultry or eggs",,Do not freeze,FROZEN
+332,DELI_ITEM,"Salads, vegetable",3-5 days,,REFRIGERATED
+333,DELI_ITEM,"Salads, vegetable",,Do not freeze,FROZEN
+334,DELI_ITEM,"Side dishes such as cooked vegetables, rice or potatoes",3-4 days,,REFRIGERATED
+335,DELI_ITEM,"Side dishes such as cooked vegetables, rice or potatoes",1-2 months,,FROZEN
+336,DELI_ITEM,Olives,2 weeks,,REFRIGERATED
+337,DELI_ITEM,Olives,,Do not freeze,FROZEN
+338,DELI_ITEM,Pudding,Package date,unopened,REFRIGERATED
+339,DELI_ITEM,Pudding,2 days,opened,REFRIGERATED
+340,DELI_ITEM,Pudding,,Do not freeze,FROZEN
+341,DELI_ITEM,"Fruit, cut",Package date,unopened,REFRIGERATED
+342,DELI_ITEM,"Fruit, cut",4 days,opened,REFRIGERATED
+343,DELI_ITEM,"Fruit, cut",,Do not freeze,FROZEN
+344,DELI_ITEM,Cheesecake,1 week,,REFRIGERATED
+345,DELI_ITEM,Cheesecake,2-3 months,,FROZEN
+346,SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",2-3 days,opened,REFRIGERATED
+347,SHELF_ITEM,"Baby food, meats & eggs",1 day,opened,REFRIGERATED
+348,SHELF_ITEM,"Baby food, formula",1-2 days,opened,REFRIGERATED
+349,SHELF_ITEM,"Bacon Bits, Imitation",refer to jar,opened,REFRIGERATED
+350,SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",3-4 days,opened,REFRIGERATED
+351,SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",5-7 days,opened,REFRIGERATED
+352,SHELF_ITEM,"Coffee, whole beans",3-4 months,,FROZEN
+353,SHELF_ITEM,"Coffee, whole beans",2 weeks,opened,REFRIGERATED
+354,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",3-4 months,,FROZEN
+355,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",2 weeks,opened,REFRIGERATED
+356,SHELF_ITEM,"Coffee, instant, jars and tins",3-4 months,,FROZEN
+357,SHELF_ITEM,"Coffee, instant, jars and tins",2 weeks,opened,REFRIGERATED
+358,BAKING,"Cornmeal, regular, degerminated",12 months,opened,REFRIGERATED
+359,BAKING,"Cornmeal, stone ground or blue",2-3 months,opened,REFRIGERATED
+360,BAKING,"Flour, whole wheat",6-8 months,opened,REFRIGERATED
+361,BAKING,"Frosting, canned",1 week,opened,REFRIGERATED
+362,BAKING,Chocolate syrup,6 months,opened,REFRIGERATED
+363,CONDIMENTS,"Barbecue sauce, bottled",4 months,opened,REFRIGERATED
+364,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",6 months,opened,REFRIGERATED
+365,CONDIMENTS,Chutney,1-2 months,opened,REFRIGERATED
+366,CONDIMENTS,"Horseradish, in jar",3-4 months,opened,REFRIGERATED
+367,CONDIMENTS,"Mayonnaise, commercial",2 months,opened,REFRIGERATED
+368,CONDIMENTS,Mustard,12 months,opened,REFRIGERATED
+369,CONDIMENTS,"Olives, black and green",2 weeks,opened,REFRIGERATED
+370,CONDIMENTS,Pickles,1-2 weeks,opened,REFRIGERATED
+371,CONDIMENTS,"Salad Dressings, commercial, bottled",3 months,opened,REFRIGERATED
+372,CONDIMENTS,"Salsa, picante & taco sauces",1 month,opened,REFRIGERATED
+373,COOKIES,"Cookies, packaged",8-12 months,opened,FROZEN
+374,CRACKERS,Crackers,3-4 months,opened,FROZEN
+375,CRACKERS,Crackers,3-4 months,opened,REFRIGERATED
+376,SHELF_ITEM,"Fruits, dried",6 months,opened,REFRIGERATED
+377,SHELF_ITEM,"Garlic, chopped",date on jar,opened,REFRIGERATED
+378,SHELF_ITEM,"Garlic, commercial jars",date on jar,opened,REFRIGERATED
+379,SHELF_ITEM,"Gravy, jars and cans",1-2 days,opened,REFRIGERATED
+380,SHELF_ITEM,"Gravy, dry gravy mixes",1-2 days,opened,REFRIGERATED
+381,SHELF_ITEM,"Jams, jellies, preserves",6 months,opened,REFRIGERATED
+382,SHELF_ITEM,"Jerky, commercially dried",2-3 months,opened,REFRIGERATED
+383,SHELF_ITEM,"Jerky, homemade",1-2 months,opened,REFRIGERATED
+384,SHELF_ITEM,"Juice, boxes",8-12 days,opened,REFRIGERATED
+385,SHELF_ITEM,"Milk, canned evaporated",4-5 days,opened,REFRIGERATED
+386,SHELF_ITEM,"Oils, olive or vegetable",4 months,opened,REFRIGERATED
+387,SHELF_ITEM,"Nuts, jars or cans",4-6 months,opened,REFRIGERATED
+388,SHELF_ITEM,"Nuts, jars or cans",9-12 months,opened,FROZEN
+389,SHELF_ITEM,"Rice, white or wild",6 months,opened,REFRIGERATED
+390,SHELF_ITEM,"Rice, brown",6 months,opened,REFRIGERATED
+391,SHELF_ITEM,"Rice, flavored or herb mixes",6 months,opened,REFRIGERATED
+392,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",2-3 days,opened,REFRIGERATED
+393,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",2-3 days,opened,REFRIGERATED
+394,SOY,"Soy or rice beverage, shelf stable",7-10 days,opened,REFRIGERATED
+395,SOY,"Soy or rice beverage, soy flour, full-fat",6 months,opened,REFRIGERATED
+396,SOY,"Soy or rice beverage, Re-hydrated TSP",3-4 days,opened,REFRIGERATED
+397,SHELF_ITEM,Spaghetti sauce in jars,4 days,opened,REFRIGERATED
+398,SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",2 years,opened,REFRIGERATED
+399,SHELF_ITEM,"Syrup, genuine or real maple",12 months,opened,REFRIGERATED
+400,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",6-12 months,opened,REFRIGERATED
+401,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",6-12 months,opened,REFRIGERATED
+402,SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,opened,REFRIGERATED
+403,BAKERY,"Bread, commercial*",7-14 days,,REFRIGERATED
+404,BAKERY,"Bread, commercial*",3 months,,FROZEN
+405,BAKERY,"Bread, flat (tortillas, pita)",4-7 days,,REFRIGERATED
+406,BAKERY,"Bread, flat (tortillas, pita)",4 months,,FROZEN
+407,BAKERY,"Cakes, angel food",1 week,,REFRIGERATED
+408,BAKERY,"Cakes, angel food",2 months,,FROZEN
+409,BAKERY,"Cakes, chiffon, sponge",1 week,,REFRIGERATED
+410,BAKERY,"Cakes, chiffon, sponge",2 months,,FROZEN
+411,BAKERY,"Cakes, chocolate",1 week,,REFRIGERATED
+412,BAKERY,"Cakes, chocolate",4 months,,FROZEN
+413,BAKERY,"Cakes, fruit cake",6 months,,REFRIGERATED
+414,BAKERY,"Cakes, fruit cake",12 months,,FROZEN
+415,BAKERY,"Cakes, made from mix",1 week,,REFRIGERATED
+416,BAKERY,"Cakes, made from mix",4 months,,FROZEN
+417,BAKERY,"Cakes, pound cake",1 week,,REFRIGERATED
+418,BAKERY,"Cakes, pound cake",6 months,,FROZEN
+419,BAKERY,Cheesecake,1 week,,REFRIGERATED
+420,BAKERY,Cheesecake,2-3 months,,FROZEN
+421,BAKERY,"Cookies, bakery or homemade",2 months,,REFRIGERATED
+422,BAKERY,"Cookies, bakery or homemade",8-12 months,,FROZEN
+423,BAKERY,"Croissants, butter",1 week,,REFRIGERATED
+424,BAKERY,"Croissants, butter",2 months,,FROZEN
+425,BAKERY,"Doughnuts, glazed or cake",1 month,,FROZEN
+426,BAKERY,"Doughnuts, glazed or cake, dairy cream filled",3-4 days,,REFRIGERATED
+427,BAKERY,"Eclairs, dairy cream filled",3-4 days,,REFRIGERATED
+428,BAKERY,Muffins,1 week,,REFRIGERATED
+429,BAKERY,Muffins,2 months,,FROZEN
+430,BAKERY,"Pastries, danish",1 week,,REFRIGERATED
+431,BAKERY,"Pastries, danish",2 months,,FROZEN
+432,BAKERY,"Pies, cream",3-4 days,,REFRIGERATED
+433,BAKERY,"Pies, chiffon",1-2 days,,REFRIGERATED
+434,BAKERY,"Pies, fruit",1 week,,REFRIGERATED
+435,BAKERY,"Pies, fruit",8 months,,FROZEN
+436,BAKERY,"Pies, mincemeat",1 week,,REFRIGERATED
+437,BAKERY,"Pies, mincemeat",8 months,,FROZEN
+438,BAKERY,"Pies, pecan",3-4 days,,REFRIGERATED
+439,BAKERY,"Pies, pecan",1-2 months,,FROZEN
+440,BAKERY,"Pies, pumpkin",3-4 days,,REFRIGERATED
+441,BAKERY,"Pies, pumpkin",1-2 months,,FROZEN
+442,BAKERY,Quiche,3-4 days,,REFRIGERATED
+443,BAKERY,Quiche,2 months,,FROZEN
+444,BAKERY,"Rolls, yeast, baked",1 week,,REFRIGERATED
+445,BAKERY,"Rolls, yeast, baked",2 months,,FROZEN
+446,BAKERY,"Rolls, yeast, partially baked",1 week,,REFRIGERATED
+447,BAKERY,"Rolls, yeast, partially baked",2 months,,FROZEN
+448,BAKERY,"Rolls, filled, meat or vegetables",3-4 days,,REFRIGERATED
+449,BAKERY,"Rolls, filled, meat or vegetables",2 months,,FROZEN
+450,BAKERY,"Doughnuts, glazed or cake",1 week,G,REFRIGERATED
+0,FRUIT,Apples,1-2 days,,SHELF
+1,FRUIT,Apricots,Until ripe,,SHELF
+2,FRUIT,Avocados,Until ripe,,SHELF
+3,FRUIT,Bananas,Until ripe,,SHELF
+4,FRUIT,Citrus Fruit,10 days,,SHELF
+5,FRUIT,Coconuts,1 week,fresh,SHELF
+6,FRUIT,Grapes,1 day,,SHELF
+7,FRUIT,Kiwi Fruit,Until ripe,,SHELF
+8,FRUIT,Melons,1-2 days,,SHELF
+9,FRUIT,"Papaya, mango",3-5 days,,SHELF
+10,FRUIT,"Peaches, nectarines",Until ripe,,SHELF
+11,FRUIT,"Pears, Plums",3-5 days,,SHELF
+12,VEGETABLES,"Artichokes, whole",1-2 days,,SHELF
+13,VEGETABLES,Beets,1 day,,SHELF
+14,VEGETABLES,Eggplant,1 day,,SHELF
+15,VEGETABLES,Garlic,1 month,,SHELF
+16,VEGETABLES,Ginger Root,1-2 days,,SHELF
+17,VEGETABLES,"Onions, dry",2-3 weeks,,SHELF
+18,VEGETABLES,Potatoes,1-2 months,,SHELF
+19,VEGETABLES,Rutabagas,1 week,,SHELF
+20,VEGETABLES,"Squash, winter",1 week,,SHELF
+21,VEGETABLES,Tomatoes,Until ripe,,SHELF
+22,SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",Use-by date,unopened,SHELF
+23,SHELF_ITEM,"Baby food, meats & eggs",Use-by date,unopened,SHELF
+24,SHELF_ITEM,"Baby food, cereal, dry mixes",Use-by date,unopened,SHELF
+25,SHELF_ITEM,"Baby food, cereal, dry mixes",2 months,opened,SHELF
+26,SHELF_ITEM,"Baby food, formula",Use-by date,unopened,SHELF
+27,SHELF_ITEM,"Bacon Bits, Imitation",4 months,unopened,SHELF
+28,SHELF_ITEM,"Bacon Bits, Imitation",4 months,opened,SHELF
+29,SHELF_ITEM,"Beans, Dried",12 months,unopened,SHELF
+30,SHELF_ITEM,"Beans, Dried",12 months,opened,SHELF
+31,SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",2-5 years,unopened,SHELF
+32,SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",12-18 months,unopened,SHELF
+33,SHELF_ITEM,"Cereal, ready-to-eat",6-12 months,unopened,SHELF
+34,SHELF_ITEM,"Cereal, ready-to-eat",3 months,opened,SHELF
+35,SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",12 months,unopened,SHELF
+36,SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",6-12 months,opened,SHELF
+37,SHELF_ITEM,"Coffee, whole beans",1-3 weeks,unopened,SHELF
+38,SHELF_ITEM,"Coffee, whole beans",1 week,opened,SHELF
+39,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",2 years,unopened,SHELF
+40,SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",1 week,opened,SHELF
+41,SHELF_ITEM,"Coffee, instant, jars and tins",12 months,unopened,SHELF
+42,SHELF_ITEM,"Coffee, instant, jars and tins",2-3 months,opened,SHELF
+43,BAKING,Baking powder,6 months,unopened,SHELF
+44,BAKING,Baking powder,3 months,opened,SHELF
+45,BAKING,Baking soda,18 months,unopened,SHELF
+46,BAKING,Baking soda,6 months,opened,SHELF
+47,BAKING,Biscuit or pancake mix,15 months,unopened,SHELF
+48,BAKING,Biscuit or pancake mix,Pkg use-by date,opened,SHELF
+49,BAKING,"Cake, Brownie, Bread Mixes",12-18 months,unopened,SHELF
+50,BAKING,"Cake, Brownie, Bread Mixes",Pkg use-by date,opened,SHELF
+51,BAKING,"Cornmeal, regular, degerminated",6-12 months,unopened,SHELF
+52,BAKING,"Cornmeal, stone ground or blue",1 month,unopened,SHELF
+53,BAKING,Cornstarch,18 months,unopened,SHELF
+54,BAKING,Cornstarch,18 months,opened,SHELF
+55,BAKING,"Flour, white",6-12 months,unopened,SHELF
+56,BAKING,"Flour, white",6-8 months,opened,SHELF
+57,BAKING,"Flour, whole wheat",1 month,unopened,SHELF
+58,BAKING,"Frosting, canned",10 months,unopened,SHELF
+59,BAKING,"Frosting, canned",3 months,opened,SHELF
+60,BAKING,"Frosting, Frosting mixes",12 months,unopened,SHELF
+61,BAKING,"Frosting, Frosting mixes",3 months,opened,SHELF
+62,BAKING,"Chocolate, unsweetened and semi-sweet, solid",18-24 months,unopened,SHELF
+63,BAKING,"Chocolate, unsweetened and semi-sweet, solid",1 year,opened,SHELF
+64,BAKING,Chocolate syrup,2 years,unopened,SHELF
+65,BAKING,Cocoa and Cocoa Mixes,Indefinitely,unopened,SHELF
+66,BAKING,Cocoa and Cocoa Mixes,1 year,opened,SHELF
+67,CONDIMENTS,"Barbecue sauce, bottled",12 months,unopened,SHELF
+68,CONDIMENTS,"Barbecue sauce, bottled",1 month,opened,SHELF
+69,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",12 months,unopened,SHELF
+70,CONDIMENTS,"Ketchup, Cocktail or Chili sauce",1 month,opened,SHELF
+71,CONDIMENTS,Chutney,12 months,unopened,SHELF
+72,CONDIMENTS,"Horseradish, in jar",12 months,unopened,SHELF
+73,CONDIMENTS,"Mayonnaise, commercial",2-3 months,unopened,SHELF
+74,CONDIMENTS,Mustard,12 months,unopened,SHELF
+75,CONDIMENTS,Mustard,1 month,opened,SHELF
+76,CONDIMENTS,"Olives, black and green",12-18 months,unopened,SHELF
+77,CONDIMENTS,Pickles,12 months,unopened,SHELF
+78,CONDIMENTS,"Salad Dressings, commercial, bottled",10-12 months,unopened,SHELF
+79,CONDIMENTS,"Salsa, picante & taco sauces",12 months,unopened,SHELF
+80,COOKIES,"Cookies, packaged",2 months,unopened,SHELF
+81,COOKIES,"Cookies, packaged",4 weeks,opened,SHELF
+82,CRACKERS,Crackers,8 months,unopened,SHELF
+83,CRACKERS,Crackers,1 month,opened,SHELF
+84,SHELF_ITEM,Diet powder mixes,6 months,unopened,SHELF
+85,SHELF_ITEM,Diet powder mixes,3 months,opened,SHELF
+86,SHELF_ITEM,"Extracts, vanilla, lemon, etc.",3 years,unopened,SHELF
+87,SHELF_ITEM,"Extracts, vanilla, lemon, etc.",1 year,opened,SHELF
+88,SHELF_ITEM,"Fruits, dried",6 months,unopened,SHELF
+89,SHELF_ITEM,"Fruits, dried",1 month,opened,SHELF
+90,SHELF_ITEM,"Garlic, chopped",18 months,unopened,SHELF
+91,SHELF_ITEM,"Garlic, commercial jars",8 months,unopened,SHELF
+92,SHELF_ITEM,"Gelatin, flavored",18 months,unopened,SHELF
+93,SHELF_ITEM,"Gelatin, flavored",3-4 months,opened,SHELF
+94,SHELF_ITEM,"Gelatin, unflavored",3 years,unopened,SHELF
+95,SHELF_ITEM,"Gelatin, unflavored",3-4 months,opened,SHELF
+96,SHELF_ITEM,"Gravy, jars and cans",2-5 years,unopened,SHELF
+97,SHELF_ITEM,"Gravy, jars and cans",,Use entire can,SHELF
+98,SHELF_ITEM,"Gravy, dry gravy mixes",2 years,unopened,SHELF
+99,SHELF_ITEM,"Gravy, dry gravy mixes",,Mix entire packet,SHELF
+100,SHELF_ITEM,"Herbs, dried",1-2 years,unopened,SHELF
+101,SHELF_ITEM,"Herbs, dried",1 year,"Cool, dark place",SHELF
+102,SHELF_ITEM,Honey,12 months,unopened,SHELF
+103,SHELF_ITEM,Honey,12 months,opened,SHELF
+104,SHELF_ITEM,"Jams, jellies, preserves",12 months,unopened,SHELF
+105,SHELF_ITEM,"Jerky, commercially dried",12 months,unopened,SHELF
+106,SHELF_ITEM,"Jerky, homemade",1-2 months,opened,SHELF
+107,SHELF_ITEM,"Juice, boxes",4-6 months,unopened,SHELF
+108,SHELF_ITEM,"Lentils, dried",12 months,unopened,SHELF
+109,SHELF_ITEM,"Lentils, dried",12 months,opened,SHELF
+110,SHELF_ITEM,"Marshmallows, marshmallow creme",2-4 months,unopened,SHELF
+111,SHELF_ITEM,"Marshmallows, marshmallow creme",1 month,opened,SHELF
+112,SHELF_ITEM,"Milk, canned evaporated",12 months,unopened,SHELF
+113,SHELF_ITEM,Molasses,12 months,unopened,SHELF
+114,SHELF_ITEM,Molasses,6 months,opened,SHELF
+115,SHELF_ITEM,"Mushrooms, dried",6 months,unopened,SHELF
+116,SHELF_ITEM,"Mushrooms, dried",3 months,opened,SHELF
+117,SHELF_ITEM,"Oils, olive or vegetable",6 months,unopened,SHELF
+118,SHELF_ITEM,"Oils, olive or vegetable",1-3 months,opened,SHELF
+119,SHELF_ITEM,"Oils, nut oils",6 months,unopened,SHELF
+120,SHELF_ITEM,"Oils, vegetable oil sprays",2 years,unopened,SHELF
+121,SHELF_ITEM,"Oils, vegetable oil sprays",1 year,opened,SHELF
+122,SHELF_ITEM,"Nuts, jars or cans",12 months,unopened,SHELF
+123,SHELF_ITEM,"Nuts, jars or cans",1 month,opened,SHELF
+124,SHELF_ITEM,"Pasta, dry, without eggs",2 years,unopened,SHELF
+125,SHELF_ITEM,"Pasta, dry, without eggs",1 year,opened,SHELF
+126,SHELF_ITEM,Dry egg noodles,2 years,unopened,SHELF
+127,SHELF_ITEM,Dry egg noodles,1-2 months,opened,SHELF
+128,SHELF_ITEM,"Peanut butter, commercial",6-9 months,unopened,SHELF
+129,SHELF_ITEM,"Peanut butter, commercial",2-3 months,opened,SHELF
+130,SHELF_ITEM,"Peas, dried split",12 months,unopened,SHELF
+131,SHELF_ITEM,"Peas, dried split",12 months,opened,SHELF
+132,SHELF_ITEM,Pectin,Use by pkg. date,unopened,SHELF
+133,SHELF_ITEM,Pectin,1 month,opened,SHELF
+134,SHELF_ITEM,"Popcorn, dry kernels in jar",2 years,unopened,SHELF
+135,SHELF_ITEM,"Popcorn, dry kernels in jar",1 year,opened,SHELF
+136,SHELF_ITEM,Commercially popped in bags,2-3 months,unopened,SHELF
+137,SHELF_ITEM,Commercially popped in bags,1-2 weeks,opened,SHELF
+138,SHELF_ITEM,Commercially microwave packets,12 months,unopened,SHELF
+139,SHELF_ITEM,Commercially microwave packets,1-2 days,popped,SHELF
+140,SHELF_ITEM,Potato chips,2 months,unopened,SHELF
+141,SHELF_ITEM,Potato chips,1-2 weeks,opened,SHELF
+142,SHELF_ITEM,"Potatoes, instant",6-12 months,unopened,SHELF
+143,SHELF_ITEM,"Potatoes, instant",6-12 months,opened,SHELF
+144,SHELF_ITEM,Pudding mixes,12 months,unopened,SHELF
+145,SHELF_ITEM,Pudding mixes,3-4 months,opened,SHELF
+146,SHELF_ITEM,"Rice, white or wild",2 years,unopened,SHELF
+147,SHELF_ITEM,"Rice, white or wild",1 year,opened,SHELF
+148,SHELF_ITEM,"Rice, brown",1 year,unopened,SHELF
+149,SHELF_ITEM,"Rice, brown",1 year,opened,SHELF
+150,SHELF_ITEM,"Rice, flavored or herb mixes",6 months,unopened,SHELF
+151,SHELF_ITEM,"Rice, flavored or herb mixes",,Use all,SHELF
+152,SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",2 years,unopened,SHELF
+153,SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",Use entire amount,opened,SHELF
+154,SHELF_ITEM,"Sauce mixes, nondairy cream sauces, milk solids",1 year,unopened,SHELF
+155,SHELF_ITEM,"Shortening, solid",8 months,unopened,SHELF
+156,SHELF_ITEM,"Shortening, solid",3 months,opened,SHELF
+157,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",3 mos. after date,unopened,SHELF
+158,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",1 week,opened,SHELF
+159,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",3 mos. after date,unopened,SHELF
+160,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",2 weeks,opened,SHELF
+161,SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, cans",9 mos. after date,unopened,SHELF
+162,SHELF_ITEM,"Soup mixes, dry bouillon",12 months,unopened,SHELF
+163,SHELF_ITEM,"Soup mixes, dry bouillon",12 months,opened,SHELF
+164,SOY,"Soy or rice beverage, shelf stable",3 months or use-by date,unopened,SHELF
+165,SOY,"Soy or rice beverage, soy beverage powders",6 months,unopened,SHELF
+166,SOY,"Soy or rice beverage, soy beverage powders",3-4 months,opened,SHELF
+167,SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,unopened,SHELF
+168,SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,opened,SHELF
+169,SOY,"Soy or rice beverage, soy flour, full-fat",2 months,unopened,SHELF
+170,SOY,"Soy or rice beverage, Textured soy protein (TSP)",2 years,unopened,SHELF
+171,SOY,"Soy or rice beverage, Textured soy protein (TSP)",3-4 months,opened,SHELF
+172,SOY,"Soy or rice beverage, Re-hydrated TSP",3-4 months,unopened,SHELF
+173,SHELF_ITEM,Spaghetti sauce in jars,18 months,unopened,SHELF
+174,SHELF_ITEM,"Spices, whole",2-4 years,unopened,SHELF
+175,SHELF_ITEM,"Spices, whole",2-4 years,opened,SHELF
+176,SHELF_ITEM,"Spices, ground",2-3 years,unopened,SHELF
+177,SHELF_ITEM,"Spices, ground",2-3 years,opened,SHELF
+178,SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",2 years,unopened,SHELF
+179,SHELF_ITEM,"Sugar, brown",4 months,,SHELF
+180,SHELF_ITEM,"Sugar, granulated",2 years,,SHELF
+181,SHELF_ITEM,"Sugar, confectioners",18 months,,SHELF
+182,SHELF_ITEM,"Sugar, sugar substitutes",2 years,,SHELF
+183,SHELF_ITEM,"Syrup, pancake",12 months,unopened,SHELF
+184,SHELF_ITEM,"Syrup, pancake",12 months,opened,SHELF
+185,SHELF_ITEM,"Syrup, genuine or real maple",12 months,unopened,SHELF
+186,SHELF_ITEM,Tapioca,12 months,unopened,SHELF
+187,SHELF_ITEM,Tapioca,12 months,opened,SHELF
+188,SHELF_ITEM,"Tea, bags",18 months,unopened,SHELF
+189,SHELF_ITEM,"Tea, bags",12 months,opened,SHELF
+190,SHELF_ITEM,"Tea, loose",2 years,unopened,SHELF
+191,SHELF_ITEM,"Tea, loose",6-12 months,opened,SHELF
+192,SHELF_ITEM,"Tea, instant",3 years,unopened,SHELF
+193,SHELF_ITEM,"Tea, instant",6-12 months,opened,SHELF
+194,SHELF_ITEM,"Toaster pastries, fruit filled",6 months,unopened,SHELF
+195,SHELF_ITEM,"Toaster pastries, non-fruit fillings",6 months,unopened,SHELF
+196,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",12 months,unopened,SHELF
+197,SHELF_ITEM,"Tomatoes, sun dried, packed in oil",3-6 months,opened,SHELF
+198,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",9 months,unopened,SHELF
+199,SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",3-6 months,opened,SHELF
+200,SHELF_ITEM,Vinegar,2 years,unopened,SHELF
+201,SHELF_ITEM,Vinegar,12 months,opened,SHELF
+202,SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,unopened,SHELF
+203,SHELF_ITEM,"Water, bottled",1-2 years,unopened,SHELF
+204,SHELF_ITEM,"Water, bottled",3 months,opened,SHELF
+205,SHELF_ITEM,Worcestershire Sauce,1 year,unopened,SHELF
+206,SHELF_ITEM,Worcestershire Sauce,1 year,opened,SHELF
+207,BAKERY,"Bread, commercial*",2-4 days,,SHELF
+208,BAKERY,"Bread, flat (tortillas, pita)",2-4 days,,SHELF
+209,BAKERY,"Cakes, angel food",1-2 days,,SHELF
+210,BAKERY,"Cakes, chiffon, sponge",1-2 day,,SHELF
+211,BAKERY,"Cakes, chocolate",1-2 days,,SHELF
+212,BAKERY,"Cakes, fruit cake",1 month,,SHELF
+213,BAKERY,"Cakes, made from mix",3-4 days,,SHELF
+214,BAKERY,"Cakes, pound cake",3-4 days,,SHELF
+215,BAKERY,"Cookies, bakery or homemade",2-3 weeks,,SHELF
+216,BAKERY,"Croissants, butter",1 day,,SHELF
+217,BAKERY,"Doughnuts, glazed or cake",1-2 days,,SHELF
+218,BAKERY,Muffins,1-2 days,,SHELF
+219,BAKERY,"Pastries, danish",1-2 days,,SHELF
+220,BAKERY,"Pies, fruit",1-2 days,,SHELF
+221,BAKERY,"Pies, mincemeat",2 hours,,SHELF
+222,BAKERY,"Pies, pecan",2 hours,,SHELF
+223,BAKERY,"Pies, pumpkin",2 hours,,SHELF
+224,BAKERY,Quiche,2 hours,,SHELF
+225,BAKERY,"Rolls, yeast, baked",3-4 days,,SHELF
+226,BAKERY,"Rolls, yeast, partially baked",Package date,,SHELF
+227,BAKERY,"Rolls, filled, meat or vegetables",2 hours,,SHELF
+0,DIARY,"Cheese, processed slices",1-2 months,,REFRIGERATED
+1,DIARY,"Eggs, in shell",3-5 weeks,,REFRIGERATED
+2,DIARY,Margarine,12 months,,FROZEN
+3,DIARY,"Milk, plain or flavored",1 week,,REFRIGERATED
+4,SOY,Tofu,1 week,,REFRIGERATED
+5,PROCESSED_MEAT,Bacon,1 week,,REFRIGERATED
+6,PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",6-9 months,,REFRIGERATED
+7,FRUIT,Apples,1-2 days,,SHELF
+8,FRUIT,Bananas,Until ripe,,SHELF
+9,VEGETABLES,Tomatoes,Until ripe,,SHELF
+10,SHELF_ITEM,"Rice, white or wild",2 years,unopened,SHELF
+11,BAKERY,"Bread, commercial*",2-4 days,,SHELF
