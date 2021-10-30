@@ -1,0 +1,680 @@
+TYPE,ITEM,PERIOD,DETAILS,STORAGE,ITEM_DESC
+DIARY,Cheese,60.0,,REFRIGERATED, processed slices
+DIARY,Eggs,35.0,,REFRIGERATED, in shell
+DIARY,Margarine,30.0,,FROZEN,
+DIARY,Milk,7.0,,REFRIGERATED, plain or flavored
+SOY,Tofu,7.0,,REFRIGERATED,
+PROCESSED_MEAT,Bacon,7.0,,REFRIGERATED,
+PROCESSED_MEAT,Ham,270.0,,REFRIGERATED," canned (""keep refrigerated"" label)"
+FRUIT,Apples,2.0,,SHELF,
+FRUIT,Bananas,30.0,,SHELF,
+VEGETABLES,Tomatoes,36.58,,SHELF,
+SHELF_ITEM,Rice,730.0,unopened,SHELF, white or wild
+BAKERY,Bread,4.0,,SHELF, commercial*
+BEVERAGES,Juice in cartons,21.0,unopened,REFRIGERATED," fruit drinks, punch"
+BEVERAGES,Juice in cartons,1.0,opened,REFRIGERATED," fruit drinks, punch"
+BEVERAGES,Juice in cartons,30.0,,FROZEN," fruit drinks, punch"
+DIARY,Butter,90.0,,REFRIGERATED,
+DIARY,Butter,270.0,,FROZEN,
+DIARY,Buttermilk,14.0,,REFRIGERATED,
+DIARY,Buttermilk,90.0,,FROZEN,
+DIARY,Cheese,180.0,unopened,REFRIGERATED," hard (such as cheddar,  swiss, block parmesan)"
+DIARY,Cheese,180.0,,FROZEN," hard (such as cheddar,  swiss, block parmesan)"
+DIARY,Cheese,28.0,opened,REFRIGERATED," hard (such as cheddar,  swiss, block parmesan)"
+DIARY,Parmesan,30.0,opened,REFRIGERATED, shredded
+DIARY,Parmesan,120.0,,FROZEN, shredded
+DIARY,Shredded cheddar,30.0,,REFRIGERATED," mozzarella, etc."
+DIARY,Shredded cheddar,120.0,,FROZEN," mozzarella, etc."
+DIARY,Cheese,7.0,,REFRIGERATED," soft (such as Brie, Bel Paese)"
+DIARY,Cheese,180.0,,FROZEN," soft (such as Brie, Bel Paese)"
+DIARY,Cottage cheese,7.0,,REFRIGERATED, ricotta
+DIARY,Cream cheese,14.0,,REFRIGERATED,
+DIARY,Cream,30.0,,REFRIGERATED," whipping, ultrapasteurized"
+DIARY,Whipped,1.0,,REFRIGERATED, sweetened
+DIARY,Whipped,60.0,,FROZEN, sweetened
+DIARY,Aerosol can,28.0,,REFRIGERATED, real whipped cream
+DIARY,Aerosol can,90.0,,REFRIGERATED, nondairy topping
+DIARY,Cream,4.0,,REFRIGERATED, half-and-half
+DIARY,Cream,120.0,,FROZEN, half-and-half
+DIARY,Dips,14.0,,REFRIGERATED, sour cream based
+DIARY,Egg substitutes,1.0,unopened,REFRIGERATED, liquid
+DIARY,Egg substitutes,3.0,opened,REFRIGERATED, liquid
+DIARY,Eggnog,5.0,,REFRIGERATED, commercial
+DIARY,Eggnog,180.0,,FROZEN, commercial
+DIARY,Eggs,4.0,,REFRIGERATED," raw whites, yolks*"
+DIARY,Eggs,30.0,,FROZEN," raw whites, yolks*"
+DIARY,Eggs,7.0,,REFRIGERATED, hard cooked
+DIARY,Kefir (fermented milk),7.0,unopened,REFRIGERATED,
+DIARY,Kefir (fermented milk),2.0,opened,REFRIGERATED,
+DIARY,Margarine,180.0,,REFRIGERATED,
+DIARY,Milk,90.0,,FROZEN, plain or flavored
+DIARY,Pudding,57.45,unopened,REFRIGERATED,
+DIARY,Pudding,2.0,opened,REFRIGERATED,
+DIARY,Sour cream,2.0,,REFRIGERATED,
+DIARY,Sour cream,57.45,,FROZEN,
+DIARY,Yogurt,1.0,,REFRIGERATED,
+DIARY,Yogurt,60.0,,FROZEN,
+DOUGH,Tube cans of biscuits,60.0,,REFRIGERATED," rolls, pizza dough, etc."
+DOUGH,Ready-to-bake pie crust,60.0,,REFRIGERATED,
+DOUGH,Ready-to-bake pie crust,60.0,,FROZEN,
+DOUGH,Cookie dough,60.0,unopened,REFRIGERATED,
+DOUGH,Cookie dough,60.0,opened,REFRIGERATED,
+DOUGH,Cookie dough,60.0,,FROZEN,
+PASTA,Pasta,2.0,,REFRIGERATED, fresh
+PASTA,Pasta,31.0,,REFRIGERATED, fresh
+PASTA,Pasta,60.0,,FROZEN, fresh
+PESTO,Pesto or Sala,31.5,unopened,REFRIGERATED,
+PESTO,Pesto or Sala,3.0,opened,REFRIGERATED,
+PESTO,Pesto or Sala,60.0,,FROZEN,
+SOY,Soy or rice beverage,1.0,,REFRIGERATED, refrigerated
+SOY,Tofu,150.0,,FROZEN,
+SOY,Miso,90.0,,REFRIGERATED,
+FISH,Lean fish (cod,2.0,,REFRIGERATED," flounder, haddock, halibut, sole, etc.)"
+FISH,Lean fish (cod,240.0,,FROZEN," flounder, haddock, halibut, sole, etc.)"
+FISH,Lean fish (pollock,2.0,,REFRIGERATED," ocean perch, rockfish, sea trout)"
+FISH,Lean fish (pollock,120.0,,FROZEN," ocean perch, rockfish, sea trout)"
+FISH,Fatty fish (bluefish,2.0,,REFRIGERATED," mackerel, mullet, salmon, tuna, etc.)"
+FISH,Fatty fish (bluefish,90.0,,FROZEN," mackerel, mullet, salmon, tuna, etc.)"
+FISH,Caviar,28.0,unopened,REFRIGERATED," fresh, in jar"
+FISH,Caviar,2.0,opened,REFRIGERATED," fresh, in jar"
+FISH,Cooked fish,4.0,,REFRIGERATED, all
+FISH,Cooked fish,60.0,,FROZEN, all
+FISH,Surimi seafood,4.0,,REFRIGERATED,
+FISH,Surimi seafood,68.67,,REFRIGERATED,
+FISH,Surimi seafood,270.0,,FROZEN,
+SHELLFISH,Shrimp,2.0,,REFRIGERATED," scallops, crayfish, squid"
+SHELLFISH,Shrimp,180.0,,FROZEN," scallops, crayfish, squid"
+SHELLFISH,Shucked clams,2.0,,REFRIGERATED, mussels and oysters
+SHELLFISH,Shucked clams,120.0,,FROZEN, mussels and oysters
+SHELLFISH,Crab meat,2.0,,REFRIGERATED, fresh
+SHELLFISH,Crab meat,120.0,,FROZEN, fresh
+SHELLFISH,Crab meat,180.0,unopened,REFRIGERATED, pasteurized
+SHELLFISH,Crab meat,5.0,opened,REFRIGERATED, pasteurized
+SHELLFISH,Crab meat,120.0,,FROZEN, pasteurized
+SHELLFISH,Crab legs,5.0,,REFRIGERATED," king, dungeness, snow"
+SHELLFISH,Crab legs,30.0,,FROZEN," king, dungeness, snow"
+SHELLFISH,Live clams,2.0,,REFRIGERATED," mussels, crab and oysters"
+SHELLFISH,Live clams,90.0,,FROZEN," mussels, crab and oysters"
+SHELLFISH,Live lobsters,2.0,,REFRIGERATED,
+SHELLFISH,Live lobsters,90.0,,FROZEN,
+SHELLFISH,Lobster tails,2.0,,REFRIGERATED,
+SHELLFISH,Lobster tails,180.0,,FROZEN,
+SHELLFISH,Cooked shellfish,4.0,,REFRIGERATED, all
+SHELLFISH,Cooked shellfish,90.0,,FROZEN, all
+SMOKEDFISH,Herring,4.0,,REFRIGERATED,
+SMOKEDFISH,Herring,60.0,,FROZEN,
+SMOKEDFISH,Salmon,8.0,,REFRIGERATED," whitefish, cold-smoked"
+SMOKEDFISH,Salmon,60.0,,FROZEN," whitefish, cold-smoked"
+SMOKEDFISH,Salmon,1.0,,REFRIGERATED," whitefish, hot smoked"
+SMOKEDFISH,Salmon,52.17,,REFRIGERATED," whitefish, hot smoked"
+SMOKEDFISH,Salmon,180.0,vacuum pkg,FROZEN," whitefish, hot smoked"
+FRESH_MEAT,Beef,5.0,,REFRIGERATED," lamb, pork or veal chops, steaks,roasts"
+FRESH_MEAT,Beef,30.0,,FROZEN," lamb, pork or veal chops, steaks,roasts"
+FRESH_MEAT,Ground meat,2.0,,REFRIGERATED,
+FRESH_MEAT,Ground meat,120.0,,FROZEN,
+FRESH_MEAT,Variety meats (liver,2.0,,REFRIGERATED," tongue, chitterlings, etc.)"
+FRESH_MEAT,Variety meats (liver,120.0,,FROZEN," tongue, chitterlings, etc.)"
+FRESH_MEAT,Cooked meats (after home cooking),4.0,,REFRIGERATED,
+FRESH_MEAT,Cooked meats (after home cooking),90.0,,FROZEN,
+PROCESSED_MEAT,Bacon,30.0,,FROZEN,
+PROCESSED_MEAT,Corned beef,7.0,,REFRIGERATED, in pouch with pickling juices
+PROCESSED_MEAT,Corned beef,30.0,,FROZEN, in pouch with pickling juices
+PROCESSED_MEAT,Ham,7.0,,REFRIGERATED," fully cooked, whole"
+PROCESSED_MEAT,Ham,60.0,,FROZEN," fully cooked, whole"
+PROCESSED_MEAT,Ham,4.0,,REFRIGERATED," fully cooked, slices or half"
+PROCESSED_MEAT,Ham,60.0,,FROZEN," fully cooked, slices or half"
+PROCESSED_MEAT,Ham,7.0,,REFRIGERATED, cook before eating
+PROCESSED_MEAT,Ham,60.0,,FROZEN, cook before eating
+PROCESSED_MEAT,Hot dogs,14.0,,REFRIGERATED, sealed in package
+PROCESSED_MEAT,Hot dogs,60.0,,FROZEN, sealed in package
+PROCESSED_MEAT,Hot dogs,7.0,,REFRIGERATED, after opening
+PROCESSED_MEAT,Hot dogs,60.0,,FROZEN, after opening
+PROCESSED_MEAT,Lunch meats,14.0,,REFRIGERATED, sealed in package
+PROCESSED_MEAT,Lunch meats,60.0,,FROZEN, sealed in package
+PROCESSED_MEAT,Lunch meats,5.0,,REFRIGERATED, after opening
+PROCESSED_MEAT,Lunch meats,60.0,,FROZEN, after opening
+PROCESSED_MEAT,Sausage,2.0,,REFRIGERATED," raw, bulk type"
+PROCESSED_MEAT,Sausage,60.0,,FROZEN," raw, bulk type"
+PROCESSED_MEAT,Sausage,7.0,,REFRIGERATED," smoked links, patties"
+PROCESSED_MEAT,Sausage,60.0,,FROZEN," smoked links, patties"
+PROCESSED_MEAT,Sausage,21.0,,REFRIGERATED," hard, dry (pepperoni), sliced"
+PROCESSED_MEAT,Sausage,60.0,,FROZEN," hard, dry (pepperoni), sliced"
+FRESH_POULTRY,Chicken or turkey,2.0,,REFRIGERATED, whole
+FRESH_POULTRY,Chicken or turkey,30.0,,FROZEN, whole
+FRESH_POULTRY,Chicken or turkey,2.0,,REFRIGERATED, parts
+FRESH_POULTRY,Chicken or turkey,270.0,,FROZEN, parts
+FRESH_POULTRY,Duckling or goose,2.0,,REFRIGERATED, whole
+FRESH_POULTRY,Duckling or goose,180.0,,FROZEN, whole
+FRESH_POULTRY,Giblets,2.0,,REFRIGERATED,
+FRESH_POULTRY,Giblets,120.0,,FROZEN,
+PROCESSED_POULTRY,Chicken nuggets,2.0,,REFRIGERATED, patties
+PROCESSED_POULTRY,Chicken nuggets,90.0,,FROZEN, patties
+PROCESSED_POULTRY,Cooked poultry dishes,4.0,,REFRIGERATED,
+PROCESSED_POULTRY,Cooked poultry dishes,180.0,,FROZEN,
+PROCESSED_POULTRY,Fried chicken,4.0,,REFRIGERATED,
+PROCESSED_POULTRY,Fried chicken,120.0,,FROZEN,
+PROCESSED_POULTRY,Ground turkey or chicken,2.0,,REFRIGERATED,
+PROCESSED_POULTRY,Ground turkey or chicken,120.0,,FROZEN,
+PROCESSED_POULTRY,Lunch meats,14.0,,REFRIGERATED, sealed in package
+PROCESSED_POULTRY,Lunch meats,60.0,,FROZEN, sealed in package
+PROCESSED_POULTRY,Lunch meats,5.0,,REFRIGERATED, after opening
+PROCESSED_POULTRY,Lunch meats,60.0,,FROZEN, after opening
+PROCESSED_POULTRY,Pieces covered with broth or gravy,2.0,,REFRIGERATED,
+PROCESSED_POULTRY,Pieces covered with broth or gravy,180.0,,FROZEN,
+PROCESSED_POULTRY,Rotisserie chicken,4.0,,REFRIGERATED,
+PROCESSED_POULTRY,Rotisserie chicken,120.0,,FROZEN,
+FRUIT,Apples,21.0,,REFRIGERATED,
+FRUIT,Apples,240.0,Cooked,FROZEN,
+FRUIT,Apricots,3.0,,REFRIGERATED,
+FRUIT,Avocados,4.0,,REFRIGERATED,
+FRUIT,Bananas,2.0,skin will blacken,REFRIGERATED,
+FRUIT,Bananas,30.0,Whole peeled,FROZEN,
+FRUIT,Berries,2.0,,REFRIGERATED, cherries
+FRUIT,Berries,120.0,,FROZEN, cherries
+FRUIT,Citrus Fruit,14.0,,REFRIGERATED,
+FRUIT,Coconuts,21.0,fresh,REFRIGERATED,
+FRUIT,Coconuts,180.0,Shredded,FROZEN,
+FRUIT,Grapes,7.0,,REFRIGERATED,
+FRUIT,Grapes,30.0,Whole,FROZEN,
+FRUIT,Kiwi Fruit,4.0,,REFRIGERATED,
+FRUIT,Melons,4.0,,REFRIGERATED,
+FRUIT,Melons,30.0,Balls,FROZEN,
+FRUIT,Papaya,7.0,,REFRIGERATED, mango
+FRUIT,Peaches,4.0,,REFRIGERATED, nectarines
+FRUIT,Peaches,60.0,"Sliced, lemon juice & sugar",FROZEN, nectarines
+FRUIT,Pears,4.0,,REFRIGERATED, Plums
+VEGETABLES,Artichokes,14.0,,REFRIGERATED, whole
+VEGETABLES,Asparagus,4.0,,REFRIGERATED,
+VEGETABLES,Asparagus,240.0,,FROZEN,
+VEGETABLES,Beans,4.0,,REFRIGERATED, green or wax
+VEGETABLES,Beans,240.0,,FROZEN, green or wax
+VEGETABLES,Beets,1.0,,REFRIGERATED,
+VEGETABLES,Beets,240.0,,FROZEN,
+VEGETABLES,Bok choy,3.0,,REFRIGERATED,
+VEGETABLES,Bok choy,30.0,,FROZEN,
+VEGETABLES,Broccoli,5.0,,REFRIGERATED," raab, rapini"
+VEGETABLES,Broccoli,30.0,,FROZEN," raab, rapini"
+VEGETABLES,Brussels sprouts,5.0,,REFRIGERATED,
+VEGETABLES,Brussels sprouts,30.0,,FROZEN,
+VEGETABLES,Cauliflower,5.0,,REFRIGERATED,
+VEGETABLES,Cauliflower,30.0,,FROZEN,
+VEGETABLES,Cabbage,14.0,,REFRIGERATED,
+VEGETABLES,Cabbage,30.0,,FROZEN,
+VEGETABLES,Carrots,21.0,,REFRIGERATED, parsnips
+VEGETABLES,Carrots,30.0,,FROZEN, parsnips
+VEGETABLES,Celery,14.0,,REFRIGERATED,
+VEGETABLES,Celery,30.0,,FROZEN,
+VEGETABLES,Corn on the cob,2.0,,REFRIGERATED,
+VEGETABLES,Corn on the cob,240.0,,FROZEN,
+VEGETABLES,Cucumbers,5.0,,REFRIGERATED,
+VEGETABLES,Eggplant,4.0,,REFRIGERATED,
+VEGETABLES,Eggplant,240.0,,FROZEN,
+VEGETABLES,Garlic,14.0,,REFRIGERATED,
+VEGETABLES,Garlic,30.0,,FROZEN,
+VEGETABLES,Ginger Root,14.0,,REFRIGERATED,
+VEGETABLES,Ginger Root,30.0,,FROZEN,
+VEGETABLES,Greens,2.0,,REFRIGERATED,
+VEGETABLES,Greens,30.0,,FROZEN,
+VEGETABLES,Herbs,1.0,,REFRIGERATED, fresh
+VEGETABLES,Herbs,60.0,,FROZEN, fresh
+VEGETABLES,Leeks,14.0,,REFRIGERATED,
+VEGETABLES,Leeks,30.0,,FROZEN,
+VEGETABLES,Lettuce,14.0,,REFRIGERATED, iceberg
+VEGETABLES,Lettuce,7.0,,REFRIGERATED, leaf
+VEGETABLES,Mushrooms,3.0,,REFRIGERATED,
+VEGETABLES,Mushrooms,30.0,,FROZEN,
+VEGETABLES,Okra,3.0,,REFRIGERATED,
+VEGETABLES,Okra,30.0,,FROZEN,
+VEGETABLES,Onions,60.0,,REFRIGERATED, dry
+VEGETABLES,Onions,30.0,,FROZEN, dry
+VEGETABLES,Onions,14.0,,REFRIGERATED, Spring or green
+VEGETABLES,Onions,30.0,,FROZEN, Spring or green
+VEGETABLES,Parsley,7.0,,REFRIGERATED, cilantro
+VEGETABLES,Parsley,60.0,,FROZEN, cilantro
+VEGETABLES,Peppers,5.0,,REFRIGERATED, bell or chile
+VEGETABLES,Peppers,240.0,,FROZEN, bell or chile
+VEGETABLES,Potatoes,14.0,,REFRIGERATED,
+VEGETABLES,Potatoes,30.0,Cooked and mashed,FROZEN,
+VEGETABLES,Radishes,1.0,,REFRIGERATED,
+VEGETABLES,Rutabagas,14.0,,REFRIGERATED,
+VEGETABLES,Rutabagas,30.0,,FROZEN,
+VEGETABLES,Spinach,2.0,,REFRIGERATED,
+VEGETABLES,Spinach,30.0,,FROZEN,
+VEGETABLES,Squash,5.0,,REFRIGERATED, summer
+VEGETABLES,Squash,30.0,,FROZEN, summer
+VEGETABLES,Squash,14.0,,REFRIGERATED, winter
+VEGETABLES,Squash,30.0,,FROZEN, winter
+VEGETABLES,Turnips,14.0,,REFRIGERATED,
+VEGETABLES,Turnips,30.0,,FROZEN,
+VEGETABLES,Tomatoes,3.0,,REFRIGERATED,
+VEGETABLES,Tomatoes,60.0,,FROZEN,
+FROZEN_ITEM,Bagels,60.0,,FROZEN,
+FROZEN_ITEM,Bagels,14.0,,THAWED,
+FROZEN_ITEM,Bread Dough,60.89,,FROZEN, commercial
+FROZEN_ITEM,Bread Dough,7.0,After baking,THAWED, commercial
+FROZEN_ITEM,Burritos,60.0,,FROZEN, sandwiches
+FROZEN_ITEM,Burritos,4.0,,THAWED, sandwiches
+FROZEN_ITEM,Egg substitutes,30.0,,FROZEN,
+FROZEN_ITEM,Egg substitutes,60.89,,THAWED,
+FROZEN_ITEM,Fish,180.0,,FROZEN, breaded
+FROZEN_ITEM,Fish,180.0,,FROZEN, raw
+FROZEN_ITEM,Fish,2.0,,THAWED, raw
+FROZEN_ITEM,Fruit such as berries,180.0,,FROZEN, melons
+FROZEN_ITEM,Fruit such as berries,5.0,,THAWED, melons
+FROZEN_ITEM,Guacamole,120.0,,FROZEN,
+FROZEN_ITEM,Guacamole,4.0,,THAWED,
+FROZEN_ITEM,Ice cream,120.0,,FROZEN,
+FROZEN_ITEM,Juice concentrates,30.0,,FROZEN,
+FROZEN_ITEM,Juice concentrates,1.0,,THAWED,
+FROZEN_ITEM,Lobster tails,90.0,,FROZEN,
+FROZEN_ITEM,Lobster tails,2.0,,THAWED,
+FROZEN_ITEM,Pancakes,60.0,,FROZEN, Waffles
+FROZEN_ITEM,Pancakes,4.0,,THAWED, Waffles
+FROZEN_ITEM,Sausages,60.0,,FROZEN, uncooked
+FROZEN_ITEM,Sausages,2.0,,THAWED, uncooked
+FROZEN_ITEM,Sausages,60.0,,FROZEN, precooked
+FROZEN_ITEM,Sausages,7.0,,THAWED, precooked
+FROZEN_ITEM,Sherbet,120.0,,FROZEN, sorbet
+FROZEN_ITEM,Shrimp,30.0,,FROZEN, shellfish
+FROZEN_ITEM,Shrimp,2.0,,THAWED, shellfish
+FROZEN_ITEM,Soy crumbles and hotdogs,270.0,,FROZEN,
+FROZEN_ITEM,Soy crumbles and hotdogs,4.0,,THAWED,
+FROZEN_ITEM,Soy meat substitutes,30.0,,FROZEN,
+FROZEN_ITEM,Soy meat substitutes,4.0,,THAWED,
+FROZEN_ITEM,Tempeh,30.0,,FROZEN,
+FROZEN_ITEM,Tempeh,14.0,,THAWED,
+FROZEN_ITEM,Topping,180.0,,FROZEN, whipped
+FROZEN_ITEM,Topping,14.0,,THAWED, whipped
+FROZEN_ITEM,TV Dinners,90.0,,FROZEN," entrees,  breakfast"
+FROZEN_ITEM,Vegetables,240.0,,FROZEN,
+FROZEN_ITEM,Vegetables,4.0,,THAWED,
+DELI_ITEM,Main dishes or meals,4.0,,REFRIGERATED, hot or refrigerated
+DELI_ITEM,Main dishes or meals,90.0,,FROZEN, hot or refrigerated
+DELI_ITEM,Meats covered with gravy or broth,2.0,,REFRIGERATED,
+DELI_ITEM,Meats covered with gravy or broth,180.0,,FROZEN,
+DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,14.0,,REFRIGERATED,
+DELI_ITEM,Chicken,4.0,,REFRIGERATED, rotisserie or fried
+DELI_ITEM,Chicken,120.0,,FROZEN, rotisserie or fried
+DELI_ITEM,Luncheon meats,5.0,,REFRIGERATED, store-sliced
+DELI_ITEM,Luncheon meats,60.0,,FROZEN, store-sliced
+DELI_ITEM,Pate,2.0,,REFRIGERATED,
+DELI_ITEM,Pate,60.0,,FROZEN,
+DELI_ITEM,Cheese,28.0,,REFRIGERATED," store-sliced, hard cheese such as cheddar or swiss"
+DELI_ITEM,Cheese,180.0,,FROZEN," store-sliced, hard cheese such as cheddar or swiss"
+DELI_ITEM,Cheese,7.0,,REFRIGERATED," soft (such as brie, bel paese, goat cheese, fresh mozzarella)"
+DELI_ITEM,Cheese,180.0,,FROZEN," soft (such as brie, bel paese, goat cheese, fresh mozzarella)"
+DELI_ITEM,Salads containing meat,4.0,,REFRIGERATED," fish, poultry or eggs"
+DELI_ITEM,Salads,5.0,,REFRIGERATED, vegetable
+DELI_ITEM,Side dishes such as cooked vegetables,4.0,,REFRIGERATED, rice or potatoes
+DELI_ITEM,Side dishes such as cooked vegetables,60.0,,FROZEN, rice or potatoes
+DELI_ITEM,Olives,14.0,,REFRIGERATED,
+DELI_ITEM,Pudding,46.92,unopened,REFRIGERATED,
+DELI_ITEM,Pudding,2.0,opened,REFRIGERATED,
+DELI_ITEM,Fruit,46.92,unopened,REFRIGERATED, cut
+DELI_ITEM,Fruit,4.0,opened,REFRIGERATED, cut
+DELI_ITEM,Cheesecake,7.0,,REFRIGERATED,
+DELI_ITEM,Cheesecake,90.0,,FROZEN,
+SHELF_ITEM,Baby food,3.0,opened,REFRIGERATED," jars or cans, fruits & vegetables"
+SHELF_ITEM,Baby food,1.0,opened,REFRIGERATED, meats & eggs
+SHELF_ITEM,Baby food,2.0,opened,REFRIGERATED, formula
+SHELF_ITEM,Bacon Bits,232.77,opened,REFRIGERATED, Imitation
+SHELF_ITEM,Canned goods,4.0,opened,REFRIGERATED," low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)"
+SHELF_ITEM,Canned goods,7.0,opened,REFRIGERATED," high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)"
+SHELF_ITEM,Coffee,120.0,,FROZEN, whole beans
+SHELF_ITEM,Coffee,14.0,opened,REFRIGERATED, whole beans
+SHELF_ITEM,Coffee,120.0,,FROZEN," non-vacuum bag ground, in cans"
+SHELF_ITEM,Coffee,14.0,opened,REFRIGERATED," non-vacuum bag ground, in cans"
+SHELF_ITEM,Coffee,120.0,,FROZEN," instant, jars and tins"
+SHELF_ITEM,Coffee,14.0,opened,REFRIGERATED," instant, jars and tins"
+BAKING,Cornmeal,30.0,opened,REFRIGERATED," regular, degerminated"
+BAKING,Cornmeal,90.0,opened,REFRIGERATED, stone ground or blue
+BAKING,Flour,240.0,opened,REFRIGERATED, whole wheat
+BAKING,Frosting,7.0,opened,REFRIGERATED, canned
+BAKING,Chocolate syrup,180.0,opened,REFRIGERATED,
+CONDIMENTS,Barbecue sauce,120.0,opened,REFRIGERATED, bottled
+CONDIMENTS,Ketchup,180.0,opened,REFRIGERATED, Cocktail or Chili sauce
+CONDIMENTS,Chutney,60.0,opened,REFRIGERATED,
+CONDIMENTS,Horseradish,120.0,opened,REFRIGERATED, in jar
+CONDIMENTS,Mayonnaise,60.0,opened,REFRIGERATED, commercial
+CONDIMENTS,Mustard,30.0,opened,REFRIGERATED,
+CONDIMENTS,Olives,14.0,opened,REFRIGERATED, black and green
+CONDIMENTS,Pickles,14.0,opened,REFRIGERATED,
+CONDIMENTS,Salad Dressings,90.0,opened,REFRIGERATED," commercial, bottled"
+CONDIMENTS,Salsa,30.0,opened,REFRIGERATED, picante & taco sauces
+COOKIES,Cookies,30.0,opened,FROZEN, packaged
+CRACKERS,Crackers,120.0,opened,FROZEN,
+CRACKERS,Crackers,120.0,opened,REFRIGERATED,
+SHELF_ITEM,Fruits,180.0,opened,REFRIGERATED, dried
+SHELF_ITEM,Garlic,232.77,opened,REFRIGERATED, chopped
+SHELF_ITEM,Garlic,232.77,opened,REFRIGERATED, commercial jars
+SHELF_ITEM,Gravy,2.0,opened,REFRIGERATED, jars and cans
+SHELF_ITEM,Gravy,2.0,opened,REFRIGERATED, dry gravy mixes
+SHELF_ITEM,Jams,180.0,opened,REFRIGERATED," jellies, preserves"
+SHELF_ITEM,Jerky,90.0,opened,REFRIGERATED, commercially dried
+SHELF_ITEM,Jerky,60.0,opened,REFRIGERATED, homemade
+SHELF_ITEM,Juice,1.0,opened,REFRIGERATED, boxes
+SHELF_ITEM,Milk,5.0,opened,REFRIGERATED, canned evaporated
+SHELF_ITEM,Oils,120.0,opened,REFRIGERATED, olive or vegetable
+SHELF_ITEM,Nuts,180.0,opened,REFRIGERATED, jars or cans
+SHELF_ITEM,Nuts,30.0,opened,FROZEN, jars or cans
+SHELF_ITEM,Rice,180.0,opened,REFRIGERATED, white or wild
+SHELF_ITEM,Rice,180.0,opened,REFRIGERATED, brown
+SHELF_ITEM,Rice,180.0,opened,REFRIGERATED, flavored or herb mixes
+SHELF_ITEM,Soda such as carbonated cola drinks,3.0,opened,REFRIGERATED," mixers: diet sodas, bottles or cans"
+SHELF_ITEM,Soda such as carbonated cola drinks,3.0,opened,REFRIGERATED," mixers: regular sodas, bottles"
+SOY,Soy or rice beverage,1.0,opened,REFRIGERATED, shelf stable
+SOY,Soy or rice beverage,180.0,opened,REFRIGERATED," soy flour, full-fat"
+SOY,Soy or rice beverage,4.0,opened,REFRIGERATED, Re-hydrated TSP
+SHELF_ITEM,Spaghetti sauce in jars,4.0,opened,REFRIGERATED,
+SHELF_ITEM,Spices,730.0,opened,REFRIGERATED," paprika, red pepper, & chili powder"
+SHELF_ITEM,Syrup,30.0,opened,REFRIGERATED, genuine or real maple
+SHELF_ITEM,Tomatoes,30.0,opened,REFRIGERATED," sun dried, packed in oil"
+SHELF_ITEM,Tomatoes,30.0,opened,REFRIGERATED," sun dried, packed in cellophane"
+SHELF_ITEM,Yeast,232.77,opened,REFRIGERATED," dry, packets and jars"
+BAKERY,Bread,1.0,,REFRIGERATED, commercial*
+BAKERY,Bread,90.0,,FROZEN, commercial*
+BAKERY,Bread,7.0,,REFRIGERATED," flat (tortillas, pita)"
+BAKERY,Bread,120.0,,FROZEN," flat (tortillas, pita)"
+BAKERY,Cakes,7.0,,REFRIGERATED, angel food
+BAKERY,Cakes,60.0,,FROZEN, angel food
+BAKERY,Cakes,7.0,,REFRIGERATED," chiffon, sponge"
+BAKERY,Cakes,60.0,,FROZEN," chiffon, sponge"
+BAKERY,Cakes,7.0,,REFRIGERATED, chocolate
+BAKERY,Cakes,120.0,,FROZEN, chocolate
+BAKERY,Cakes,180.0,,REFRIGERATED, fruit cake
+BAKERY,Cakes,30.0,,FROZEN, fruit cake
+BAKERY,Cakes,7.0,,REFRIGERATED, made from mix
+BAKERY,Cakes,120.0,,FROZEN, made from mix
+BAKERY,Cakes,7.0,,REFRIGERATED, pound cake
+BAKERY,Cakes,180.0,,FROZEN, pound cake
+BAKERY,Cheesecake,7.0,,REFRIGERATED,
+BAKERY,Cheesecake,90.0,,FROZEN,
+BAKERY,Cookies,60.0,,REFRIGERATED, bakery or homemade
+BAKERY,Cookies,30.0,,FROZEN, bakery or homemade
+BAKERY,Croissants,7.0,,REFRIGERATED, butter
+BAKERY,Croissants,60.0,,FROZEN, butter
+BAKERY,Doughnuts,30.0,,FROZEN, glazed or cake
+BAKERY,Doughnuts,4.0,,REFRIGERATED," glazed or cake, dairy cream filled"
+BAKERY,Eclairs,4.0,,REFRIGERATED, dairy cream filled
+BAKERY,Muffins,7.0,,REFRIGERATED,
+BAKERY,Muffins,60.0,,FROZEN,
+BAKERY,Pastries,7.0,,REFRIGERATED, danish
+BAKERY,Pastries,60.0,,FROZEN, danish
+BAKERY,Pies,4.0,,REFRIGERATED, cream
+BAKERY,Pies,2.0,,REFRIGERATED, chiffon
+BAKERY,Pies,7.0,,REFRIGERATED, fruit
+BAKERY,Pies,240.0,,FROZEN, fruit
+BAKERY,Pies,7.0,,REFRIGERATED, mincemeat
+BAKERY,Pies,240.0,,FROZEN, mincemeat
+BAKERY,Pies,4.0,,REFRIGERATED, pecan
+BAKERY,Pies,60.0,,FROZEN, pecan
+BAKERY,Pies,4.0,,REFRIGERATED, pumpkin
+BAKERY,Pies,60.0,,FROZEN, pumpkin
+BAKERY,Quiche,4.0,,REFRIGERATED,
+BAKERY,Quiche,60.0,,FROZEN,
+BAKERY,Rolls,7.0,,REFRIGERATED," yeast, baked"
+BAKERY,Rolls,60.0,,FROZEN," yeast, baked"
+BAKERY,Rolls,7.0,,REFRIGERATED," yeast, partially baked"
+BAKERY,Rolls,60.0,,FROZEN," yeast, partially baked"
+BAKERY,Rolls,4.0,,REFRIGERATED," filled, meat or vegetables"
+BAKERY,Rolls,60.0,,FROZEN," filled, meat or vegetables"
+BAKERY,Doughnuts,7.0,G,REFRIGERATED, glazed or cake
+FRUIT,Apricots,30.0,,SHELF,
+FRUIT,Avocados,30.0,,SHELF,
+FRUIT,Citrus Fruit,1.0,,SHELF,
+FRUIT,Coconuts,7.0,fresh,SHELF,
+FRUIT,Grapes,1.0,,SHELF,
+FRUIT,Kiwi Fruit,30.0,,SHELF,
+FRUIT,Melons,2.0,,SHELF,
+FRUIT,Papaya,5.0,,SHELF, mango
+FRUIT,Peaches,30.0,,SHELF, nectarines
+FRUIT,Pears,5.0,,SHELF, Plums
+VEGETABLES,Artichokes,2.0,,SHELF, whole
+VEGETABLES,Beets,1.0,,SHELF,
+VEGETABLES,Eggplant,1.0,,SHELF,
+VEGETABLES,Garlic,30.0,,SHELF,
+VEGETABLES,Ginger Root,2.0,,SHELF,
+VEGETABLES,Onions,21.0,,SHELF, dry
+VEGETABLES,Potatoes,60.0,,SHELF,
+VEGETABLES,Rutabagas,7.0,,SHELF,
+VEGETABLES,Squash,7.0,,SHELF, winter
+SHELF_ITEM,Baby food,232.77,unopened,SHELF," jars or cans, fruits & vegetables"
+SHELF_ITEM,Baby food,232.77,unopened,SHELF, meats & eggs
+SHELF_ITEM,Baby food,232.77,unopened,SHELF," cereal, dry mixes"
+SHELF_ITEM,Baby food,60.0,opened,SHELF," cereal, dry mixes"
+SHELF_ITEM,Baby food,232.77,unopened,SHELF, formula
+SHELF_ITEM,Bacon Bits,120.0,unopened,SHELF, Imitation
+SHELF_ITEM,Bacon Bits,120.0,opened,SHELF, Imitation
+SHELF_ITEM,Beans,30.0,unopened,SHELF, Dried
+SHELF_ITEM,Beans,30.0,opened,SHELF, Dried
+SHELF_ITEM,Canned goods,1825.0,unopened,SHELF," low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)"
+SHELF_ITEM,Canned goods,30.0,unopened,SHELF," high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)"
+SHELF_ITEM,Cereal,30.0,unopened,SHELF, ready-to-eat
+SHELF_ITEM,Cereal,90.0,opened,SHELF, ready-to-eat
+SHELF_ITEM,Cereal,30.0,unopened,SHELF," cook before eating (oatmeal, etc.)"
+SHELF_ITEM,Cereal,30.0,opened,SHELF," cook before eating (oatmeal, etc.)"
+SHELF_ITEM,Coffee,21.0,unopened,SHELF, whole beans
+SHELF_ITEM,Coffee,7.0,opened,SHELF, whole beans
+SHELF_ITEM,Coffee,730.0,unopened,SHELF," non-vacuum bag ground, in cans"
+SHELF_ITEM,Coffee,7.0,opened,SHELF," non-vacuum bag ground, in cans"
+SHELF_ITEM,Coffee,30.0,unopened,SHELF," instant, jars and tins"
+SHELF_ITEM,Coffee,90.0,opened,SHELF," instant, jars and tins"
+BAKING,Baking powder,180.0,unopened,SHELF,
+BAKING,Baking powder,90.0,opened,SHELF,
+BAKING,Baking soda,30.0,unopened,SHELF,
+BAKING,Baking soda,180.0,opened,SHELF,
+BAKING,Biscuit or pancake mix,30.0,unopened,SHELF,
+BAKING,Biscuit or pancake mix,125.65,opened,SHELF,
+BAKING,Cake,30.0,unopened,SHELF," Brownie, Bread Mixes"
+BAKING,Cake,125.65,opened,SHELF," Brownie, Bread Mixes"
+BAKING,Cornmeal,30.0,unopened,SHELF," regular, degerminated"
+BAKING,Cornmeal,30.0,unopened,SHELF, stone ground or blue
+BAKING,Cornstarch,30.0,unopened,SHELF,
+BAKING,Cornstarch,30.0,opened,SHELF,
+BAKING,Flour,30.0,unopened,SHELF, white
+BAKING,Flour,240.0,opened,SHELF, white
+BAKING,Flour,30.0,unopened,SHELF, whole wheat
+BAKING,Frosting,30.0,unopened,SHELF, canned
+BAKING,Frosting,90.0,opened,SHELF, canned
+BAKING,Frosting,30.0,unopened,SHELF, Frosting mixes
+BAKING,Frosting,90.0,opened,SHELF, Frosting mixes
+BAKING,Chocolate,60.0,unopened,SHELF," unsweetened and semi-sweet, solid"
+BAKING,Chocolate,365.0,opened,SHELF," unsweetened and semi-sweet, solid"
+BAKING,Chocolate syrup,730.0,unopened,SHELF,
+BAKING,Cocoa and Cocoa Mixes,125.65,unopened,SHELF,
+BAKING,Cocoa and Cocoa Mixes,365.0,opened,SHELF,
+CONDIMENTS,Barbecue sauce,30.0,unopened,SHELF, bottled
+CONDIMENTS,Barbecue sauce,30.0,opened,SHELF, bottled
+CONDIMENTS,Ketchup,30.0,unopened,SHELF, Cocktail or Chili sauce
+CONDIMENTS,Ketchup,30.0,opened,SHELF, Cocktail or Chili sauce
+CONDIMENTS,Chutney,30.0,unopened,SHELF,
+CONDIMENTS,Horseradish,30.0,unopened,SHELF, in jar
+CONDIMENTS,Mayonnaise,90.0,unopened,SHELF, commercial
+CONDIMENTS,Mustard,30.0,unopened,SHELF,
+CONDIMENTS,Mustard,30.0,opened,SHELF,
+CONDIMENTS,Olives,30.0,unopened,SHELF, black and green
+CONDIMENTS,Pickles,30.0,unopened,SHELF,
+CONDIMENTS,Salad Dressings,30.0,unopened,SHELF," commercial, bottled"
+CONDIMENTS,Salsa,30.0,unopened,SHELF, picante & taco sauces
+COOKIES,Cookies,60.0,unopened,SHELF, packaged
+COOKIES,Cookies,28.0,opened,SHELF, packaged
+CRACKERS,Crackers,240.0,unopened,SHELF,
+CRACKERS,Crackers,30.0,opened,SHELF,
+SHELF_ITEM,Diet powder mixes,180.0,unopened,SHELF,
+SHELF_ITEM,Diet powder mixes,90.0,opened,SHELF,
+SHELF_ITEM,Extracts,1095.0,unopened,SHELF," vanilla, lemon, etc."
+SHELF_ITEM,Extracts,365.0,opened,SHELF," vanilla, lemon, etc."
+SHELF_ITEM,Fruits,180.0,unopened,SHELF, dried
+SHELF_ITEM,Fruits,30.0,opened,SHELF, dried
+SHELF_ITEM,Garlic,30.0,unopened,SHELF, chopped
+SHELF_ITEM,Garlic,240.0,unopened,SHELF, commercial jars
+SHELF_ITEM,Gelatin,30.0,unopened,SHELF, flavored
+SHELF_ITEM,Gelatin,120.0,opened,SHELF, flavored
+SHELF_ITEM,Gelatin,1095.0,unopened,SHELF, unflavored
+SHELF_ITEM,Gelatin,120.0,opened,SHELF, unflavored
+SHELF_ITEM,Gravy,1825.0,unopened,SHELF, jars and cans
+SHELF_ITEM,Gravy,730.0,unopened,SHELF, dry gravy mixes
+SHELF_ITEM,Herbs,730.0,unopened,SHELF, dried
+SHELF_ITEM,Herbs,365.0,"Cool, dark place",SHELF, dried
+SHELF_ITEM,Honey,30.0,unopened,SHELF,
+SHELF_ITEM,Honey,30.0,opened,SHELF,
+SHELF_ITEM,Jams,30.0,unopened,SHELF," jellies, preserves"
+SHELF_ITEM,Jerky,30.0,unopened,SHELF, commercially dried
+SHELF_ITEM,Jerky,60.0,opened,SHELF, homemade
+SHELF_ITEM,Juice,180.0,unopened,SHELF, boxes
+SHELF_ITEM,Lentils,30.0,unopened,SHELF, dried
+SHELF_ITEM,Lentils,30.0,opened,SHELF, dried
+SHELF_ITEM,Marshmallows,120.0,unopened,SHELF, marshmallow creme
+SHELF_ITEM,Marshmallows,30.0,opened,SHELF, marshmallow creme
+SHELF_ITEM,Milk,30.0,unopened,SHELF, canned evaporated
+SHELF_ITEM,Molasses,30.0,unopened,SHELF,
+SHELF_ITEM,Molasses,180.0,opened,SHELF,
+SHELF_ITEM,Mushrooms,180.0,unopened,SHELF, dried
+SHELF_ITEM,Mushrooms,90.0,opened,SHELF, dried
+SHELF_ITEM,Oils,180.0,unopened,SHELF, olive or vegetable
+SHELF_ITEM,Oils,90.0,opened,SHELF, olive or vegetable
+SHELF_ITEM,Oils,180.0,unopened,SHELF, nut oils
+SHELF_ITEM,Oils,730.0,unopened,SHELF, vegetable oil sprays
+SHELF_ITEM,Oils,365.0,opened,SHELF, vegetable oil sprays
+SHELF_ITEM,Nuts,30.0,unopened,SHELF, jars or cans
+SHELF_ITEM,Nuts,30.0,opened,SHELF, jars or cans
+SHELF_ITEM,Pasta,730.0,unopened,SHELF," dry, without eggs"
+SHELF_ITEM,Pasta,365.0,opened,SHELF," dry, without eggs"
+SHELF_ITEM,Dry egg noodles,730.0,unopened,SHELF,
+SHELF_ITEM,Dry egg noodles,60.0,opened,SHELF,
+SHELF_ITEM,Peanut butter,270.0,unopened,SHELF, commercial
+SHELF_ITEM,Peanut butter,90.0,opened,SHELF, commercial
+SHELF_ITEM,Peas,30.0,unopened,SHELF, dried split
+SHELF_ITEM,Peas,30.0,opened,SHELF, dried split
+SHELF_ITEM,Pectin,232.77,unopened,SHELF,
+SHELF_ITEM,Pectin,30.0,opened,SHELF,
+SHELF_ITEM,Popcorn,730.0,unopened,SHELF, dry kernels in jar
+SHELF_ITEM,Popcorn,365.0,opened,SHELF, dry kernels in jar
+SHELF_ITEM,Commercially popped in bags,90.0,unopened,SHELF,
+SHELF_ITEM,Commercially popped in bags,14.0,opened,SHELF,
+SHELF_ITEM,Commercially microwave packets,30.0,unopened,SHELF,
+SHELF_ITEM,Commercially microwave packets,2.0,popped,SHELF,
+SHELF_ITEM,Potato chips,60.0,unopened,SHELF,
+SHELF_ITEM,Potato chips,14.0,opened,SHELF,
+SHELF_ITEM,Potatoes,30.0,unopened,SHELF, instant
+SHELF_ITEM,Potatoes,30.0,opened,SHELF, instant
+SHELF_ITEM,Pudding mixes,30.0,unopened,SHELF,
+SHELF_ITEM,Pudding mixes,120.0,opened,SHELF,
+SHELF_ITEM,Rice,365.0,opened,SHELF, white or wild
+SHELF_ITEM,Rice,365.0,unopened,SHELF, brown
+SHELF_ITEM,Rice,365.0,opened,SHELF, brown
+SHELF_ITEM,Rice,180.0,unopened,SHELF, flavored or herb mixes
+SHELF_ITEM,Sauce mixes,730.0,unopened,SHELF," nondairy (spaghetti, taco, etc.)"
+SHELF_ITEM,Sauce mixes,232.77,opened,SHELF," nondairy (spaghetti, taco, etc.)"
+SHELF_ITEM,Sauce mixes,365.0,unopened,SHELF," nondairy cream sauces, milk solids"
+SHELF_ITEM,Shortening,240.0,unopened,SHELF, solid
+SHELF_ITEM,Shortening,90.0,opened,SHELF, solid
+SHELF_ITEM,Soda such as carbonated cola drinks,90.0,unopened,SHELF," mixers: diet sodas, bottles or cans"
+SHELF_ITEM,Soda such as carbonated cola drinks,7.0,opened,SHELF," mixers: diet sodas, bottles or cans"
+SHELF_ITEM,Soda such as carbonated cola drinks,90.0,unopened,SHELF," mixers: regular sodas, bottles"
+SHELF_ITEM,Soda such as carbonated cola drinks,14.0,opened,SHELF," mixers: regular sodas, bottles"
+SHELF_ITEM,Soda such as carbonated cola drinks,270.0,unopened,SHELF," mixers: regular sodas, cans"
+SHELF_ITEM,Soup mixes,30.0,unopened,SHELF, dry bouillon
+SHELF_ITEM,Soup mixes,30.0,opened,SHELF, dry bouillon
+SOY,Soy or rice beverage,90.0,unopened,SHELF, shelf stable
+SOY,Soy or rice beverage,180.0,unopened,SHELF, soy beverage powders
+SOY,Soy or rice beverage,120.0,opened,SHELF, soy beverage powders
+SOY,Soy or rice beverage,365.0,unopened,SHELF," soy flour, de-fatted, low-fat"
+SOY,Soy or rice beverage,365.0,opened,SHELF," soy flour, de-fatted, low-fat"
+SOY,Soy or rice beverage,60.0,unopened,SHELF," soy flour, full-fat"
+SOY,Soy or rice beverage,730.0,unopened,SHELF, Textured soy protein (TSP)
+SOY,Soy or rice beverage,120.0,opened,SHELF, Textured soy protein (TSP)
+SOY,Soy or rice beverage,120.0,unopened,SHELF, Re-hydrated TSP
+SHELF_ITEM,Spaghetti sauce in jars,30.0,unopened,SHELF,
+SHELF_ITEM,Spices,1460.0,unopened,SHELF, whole
+SHELF_ITEM,Spices,1460.0,opened,SHELF, whole
+SHELF_ITEM,Spices,1095.0,unopened,SHELF, ground
+SHELF_ITEM,Spices,1095.0,opened,SHELF, ground
+SHELF_ITEM,Spices,730.0,unopened,SHELF," paprika, red pepper, & chili powder"
+SHELF_ITEM,Sugar,120.0,,SHELF, brown
+SHELF_ITEM,Sugar,730.0,,SHELF, granulated
+SHELF_ITEM,Sugar,30.0,,SHELF, confectioners
+SHELF_ITEM,Sugar,730.0,,SHELF, sugar substitutes
+SHELF_ITEM,Syrup,30.0,unopened,SHELF, pancake
+SHELF_ITEM,Syrup,30.0,opened,SHELF, pancake
+SHELF_ITEM,Syrup,30.0,unopened,SHELF, genuine or real maple
+SHELF_ITEM,Tapioca,30.0,unopened,SHELF,
+SHELF_ITEM,Tapioca,30.0,opened,SHELF,
+SHELF_ITEM,Tea,30.0,unopened,SHELF, bags
+SHELF_ITEM,Tea,30.0,opened,SHELF, bags
+SHELF_ITEM,Tea,730.0,unopened,SHELF, loose
+SHELF_ITEM,Tea,30.0,opened,SHELF, loose
+SHELF_ITEM,Tea,1095.0,unopened,SHELF, instant
+SHELF_ITEM,Tea,30.0,opened,SHELF, instant
+SHELF_ITEM,Toaster pastries,180.0,unopened,SHELF, fruit filled
+SHELF_ITEM,Toaster pastries,180.0,unopened,SHELF, non-fruit fillings
+SHELF_ITEM,Tomatoes,30.0,unopened,SHELF," sun dried, packed in oil"
+SHELF_ITEM,Tomatoes,180.0,opened,SHELF," sun dried, packed in oil"
+SHELF_ITEM,Tomatoes,270.0,unopened,SHELF," sun dried, packed in cellophane"
+SHELF_ITEM,Tomatoes,180.0,opened,SHELF," sun dried, packed in cellophane"
+SHELF_ITEM,Vinegar,730.0,unopened,SHELF,
+SHELF_ITEM,Vinegar,30.0,opened,SHELF,
+SHELF_ITEM,Yeast,232.77,unopened,SHELF," dry, packets and jars"
+SHELF_ITEM,Water,730.0,unopened,SHELF, bottled
+SHELF_ITEM,Water,90.0,opened,SHELF, bottled
+SHELF_ITEM,Worcestershire Sauce,365.0,unopened,SHELF,
+SHELF_ITEM,Worcestershire Sauce,365.0,opened,SHELF,
+BAKERY,Bread,4.0,,SHELF," flat (tortillas, pita)"
+BAKERY,Cakes,2.0,,SHELF, angel food
+BAKERY,Cakes,2.0,,SHELF," chiffon, sponge"
+BAKERY,Cakes,2.0,,SHELF, chocolate
+BAKERY,Cakes,30.0,,SHELF, fruit cake
+BAKERY,Cakes,4.0,,SHELF, made from mix
+BAKERY,Cakes,4.0,,SHELF, pound cake
+BAKERY,Cookies,21.0,,SHELF, bakery or homemade
+BAKERY,Croissants,1.0,,SHELF, butter
+BAKERY,Doughnuts,2.0,,SHELF, glazed or cake
+BAKERY,Muffins,2.0,,SHELF,
+BAKERY,Pastries,2.0,,SHELF, danish
+BAKERY,Pies,2.0,,SHELF, fruit
+BAKERY,Pies,0.08333333333333333,,SHELF, mincemeat
+BAKERY,Pies,0.08333333333333333,,SHELF, pecan
+BAKERY,Pies,0.08333333333333333,,SHELF, pumpkin
+BAKERY,Quiche,0.08333333333333333,,SHELF,
+BAKERY,Rolls,4.0,,SHELF," yeast, baked"
+BAKERY,Rolls,35.48,,SHELF," yeast, partially baked"
+BAKERY,Rolls,0.08333333333333333,,SHELF," filled, meat or vegetables"
+DIARY,Cheese,57.45,Do not freeze,FROZEN, processed slices
+DIARY,Cottage cheese,57.45,Do not freeze,FROZEN, ricotta
+DIARY,Cream cheese,57.45,Do not freeze,FROZEN,
+DIARY,Cream,57.45,Do not freeze,FROZEN," whipping, ultrapasteurized"
+DIARY,Aerosol can,57.45,Do not freeze,FROZEN, real whipped cream
+DIARY,Aerosol can,57.45,Do not freeze,FROZEN, nondairy topping
+DIARY,Dips,57.45,Do not freeze,FROZEN, sour cream based
+DIARY,Egg substitutes,57.45,Do not freeze,FROZEN, liquid
+DIARY,Eggs,57.45,Do not freeze,FROZEN, in shell
+DIARY,Eggs,57.45,Do not freeze,FROZEN, hard cooked
+DIARY,Kefir (fermented milk),57.45,Do not freeze,FROZEN,
+DIARY,Pudding,57.45,Do not freeze,FROZEN,
+DOUGH,Tube cans of biscuits,60.0,Do not freeze,FROZEN," rolls, pizza dough, etc."
+SOY,Soy or rice beverage,161.44,Do not freeze,FROZEN, refrigerated
+SOY,Miso,161.44,Do not freeze,FROZEN,
+FISH,Caviar,68.67,Do not freeze,FROZEN," fresh, in jar"
+PROCESSED_MEAT,Ham,41.28,Do not freeze,FROZEN," canned (""keep refrigerated"" label)"
+FRUIT,Apricots,30.0,Do not freeze,FROZEN,
+FRUIT,Avocados,30.0,Do not freeze,FROZEN,
+FRUIT,Citrus Fruit,30.0,Do not freeze,FROZEN,
+FRUIT,Kiwi Fruit,30.0,Do not freeze,FROZEN,
+FRUIT,Papaya,30.0,Do not freeze,FROZEN, mango
+FRUIT,Pears,30.0,Do not freeze,FROZEN, Plums
+VEGETABLES,Artichokes,36.58,Do not freeze,FROZEN, whole
+VEGETABLES,Cucumbers,36.58,Do not freeze,FROZEN,
+VEGETABLES,Lettuce,36.58,Do not freeze,FROZEN, iceberg
+VEGETABLES,Lettuce,36.58,Do not freeze,FROZEN, leaf
+VEGETABLES,Radishes,36.58,Do not freeze,FROZEN,
+FROZEN_ITEM,Fish,60.89,Do not defrost. Cook frozen.,THAWED, breaded
+FROZEN_ITEM,TV Dinners,60.89,Do not defrost. Cook frozen.,THAWED," entrees,  breakfast"
+DELI_ITEM,Commercial brand vacuum packed dinners with USDA seal,46.92,Do not freeze,FROZEN,
+DELI_ITEM,Salads containing meat,46.92,Do not freeze,FROZEN," fish, poultry or eggs"
+DELI_ITEM,Salads,46.92,Do not freeze,FROZEN, vegetable
+DELI_ITEM,Olives,46.92,Do not freeze,FROZEN,
+DELI_ITEM,Pudding,46.92,Do not freeze,FROZEN,
+DELI_ITEM,Fruit,46.92,Do not freeze,FROZEN, cut
+SHELF_ITEM,Gravy,232.77,Use entire can,SHELF, jars and cans
+SHELF_ITEM,Gravy,232.77,Mix entire packet,SHELF, dry gravy mixes
+SHELF_ITEM,Rice,232.77,Use all,SHELF, flavored or herb mixes
