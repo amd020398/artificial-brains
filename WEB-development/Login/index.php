@@ -49,33 +49,12 @@
                         $type = 'consumer';
                         header("Location: http://localhost/web/consumer/home.php");
                     }
-                } else {
+                }else{
                     echo "<p>Your details cannot be found in our database. Enter Correct details OR if you are a new user , Please sign up.</p>";
                 }
             }
         }
     }
-    // echo $type;
-
-    // $query_l = parse_url($url, PHP_URL_QUERY);
-
-    // // Returns a string if the URL has parameters or NULL if not
-    // if ($query_l) {
-    //     $url .= '&category=1';
-    // } else {
-    //     $url .= '?category=1';
-    // }
+ 
     ?>
 
-
- <!-- ?> -->
- <!-- <div class="form-group mb-3">
-                <label for="">Name</label>
-                <input type="text" value="<= $row['id'; ?>"" class="form-control">
-            </div>
-            <div class="form-group mb-3">
-                <label for="">Class</label>
-                <input type="text" value="<= $row'name'; ?>" class="form-control">
-            </div>
-             -->
- <!-- <php -->

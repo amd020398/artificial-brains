@@ -30,7 +30,7 @@
             border-radius: 20px;"><a style="text-decoration: none; color: white; text-align:center" href="../dashboard/index.html">Dashboard</a></button>
         </div>
     </section>
-    <div class="links ">
+    <div class="links  d-lg-none">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
@@ -324,7 +324,7 @@
                         </a>
                         <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="#">commercial </a></li>
-                            <li><a class="dropdown-item" href="#">'BAKERYBread</a></li>
+                            <li><a class="dropdown-item" href="#">Bread</a></li>
                             <li><a class="dropdown-item" href="#"></a>flat</li>
                             <li><a class="dropdown-item" href="#"></a>tortillas</li>
                             <li><a class="dropdown-item" href="#"></a>pita
@@ -341,6 +341,335 @@
             </div>
         </nav>
     </div>
+
+    <div class="links_lg  d-lg-blog">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="navbarNavDropdown">
+                    <ul class="navbar-nav ">
+                        <li class="nav-item">
+                            <a class="nav-link ms-3" href="#">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                BEVERAGES
+                            </a>
+                            <ul class="dropdown-menu overflow-visible" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Juice in cartons</a></li>
+                                <li><a class="dropdown-item" href="#">fruit drinks</a></li>
+                                <li><a class="dropdown-item" href="#">punch</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                DIARY
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Buttermilk</a></li>
+                                <li><a class="dropdown-item" href="#">Cheese</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                BEVERAGES
+                            </a>
+                            <ul class="dropdown-menu overflow-visible" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Juice in cartons</a></li>
+                                <li><a class="dropdown-item" href="#">fruit drinks</a></li>
+                                <li><a class="dropdown-item" href="#">punch</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                DIARY
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Buttermilk</a></li>
+                                <li><a class="dropdown-item" href="#">Cheese</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                DOUGH
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">cans of biscuits</a></li>
+                                <li><a class="dropdown-item" href="#">rolls pizza dough</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                PASTA
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">fresh</a></li>
+                            </ul>
+                        </li>
+
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                PESTO
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">PESTOPesto or Sala</a></li>
+                            </ul>
+                        </li>
+
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                SOY
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">rice beverage</a></li>
+                                <li><a class="dropdown-item" href="#">refrigerated</a></li>
+                                <li><a class="dropdown-item" href="#">SOYTofu</a></li>
+                                <li><a class="dropdown-item" href="#">SOYMiso</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                FISH
+                            </a>
+                            <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">cod </a></li>
+                                <li><a class="dropdown-item" href="#">flounder</a></li>
+                                <li><a class="dropdown-item" href="#">haddock</a></li>
+                                <li><a class="dropdown-item" href="#">halibut</a></li>
+                                <li><a class="dropdown-item" href="#">sole</a>
+                        </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SHELLFISH
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">scallops</a></li>
+                            <li><a class="dropdown-item" href="#">crayfish</a></li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SMOKEDFISH
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">cod </a></li>
+                            <li><a class="dropdown-item" href="#">flounder</a></li>
+                            <li><a class="dropdown-item" href="#">haddock</a></li>
+                            <li><a class="dropdown-item" href="#">halibut</a></li>
+                            <li><a class="dropdown-item" href="#">sole</a>
+                    </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            FRESH_MEAT
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            
+                    </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            PROCESSED_MEAT
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Bacon </a></li>
+                            <li><a class="dropdown-item" href="#">Corned beef</a></li>
+                            <li><a class="dropdown-item" href="#">pouch with pickling juices</a></li>
+                            <li><a class="dropdown-item" href="#">Ham</a></li>
+
+                            <li><a class="dropdown-item" href="#">Ham</a></li>
+                            <li><a class="dropdown-item" href="#"></a>Hot dogs</li>
+                            <li><a class="dropdown-item" href="#"></a>Lunch meats</li>
+                    </li>
+                    </ul>
+                    </li>
+                          
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="links_lg  d-lg-blog">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="navbarNavDropdown">
+                    <ul class="navbar-nav ">
+                        
+                   
+
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            FRESH_POULTRY
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                         
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            PROCESSED_POULTRY
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown"> 
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            FRUIT
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Fruit</a></li>
+
+                            <li><a class="dropdown-item" href="#">cut</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            VEGETABLES
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Vegetables </a></li>
+                           
+                    </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            FROZEN_ITEM
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Bagels</a></li>
+                            <li><a class="dropdown-item" href="#">Bread Dough</a></li>
+                            <li><a class="dropdown-item" href="#">commercial</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            DELI_ITEM
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#"> dishes or meals </a></li>
+                            <li><a class="dropdown-item" href="#">hot</a></li>
+                            <li><a class="dropdown-item" href="#">refrigerated</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SHELF_ITEM
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Diet powder mixes</a></li>
+                    </li>
+                    </ul>
+                    </li>
+
+
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            BAKING
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">powder</a></li>
+                           
+                    </li>
+                    </ul>
+                    </li>
+
+
+
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            CONDIMENTS
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Barbecue sauce </a></li>
+                            <li><a class="dropdown-item" href="#">bottled</a></li>
+                           
+                    </li>
+                    </ul>
+                    </li>
+
+
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            COOKIES
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">packaged</a></li>
+                          
+                    </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            CRACKERS
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            
+                            <li><a class="dropdown-item" href="#">Crackers</a>
+                    </li>
+                    </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            BAKERY
+                        </a>
+                        <ul class="dropdown-menu z-index-2" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">commercial </a></li>
+                            <li><a class="dropdown-item" href="#">Bread</a></li>
+                            <li><a class="dropdown-item" href="#">flat</a></li>
+                            <li><a class="dropdown-item" href="#">tortillas</a></li>
+                            <li><a class="dropdown-item" href="#">pita</a>
+                    </li>
+                    </ul>
+                    </li>
+
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
 
     <section class="body_part">
         <div class="content">
