@@ -8,7 +8,7 @@
 .word span {
   cursor: pointer;
   display: inline-block;
-  font-size: 50px;
+  font-size: 30px;
   user-select: none;
   line-height: .8;
   /* margin-left: 20px;
