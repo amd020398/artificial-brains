@@ -5,22 +5,241 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    
+    <link rel="stylesheet" href="style2.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,700,800" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+      
+    <title>Home</title>
 </head>
     <body>
-        <nav >
+        <section class="nav">
             <div class="logo">
                 <h1 style="font-family: sans-serif;
                 font-size: 22px; font-weight: 300; color: rgb(255, 255, 255);">FoodForGood</h1>
             </div>
             <div class="btn_select">
-                <div class="btn_donor">
-                    <button class="btn">Donor</button>
-                </div>
                 <div class="btn_cons">
-                    <button class="btn">Consumer</button>
+                    <button class="btn"><a style="text-decoration: none; color: white;" href="../signin/signin.php">Sign In</a></button>
                 </div>
             </div>
-        </nav>
+        </section>
+
+        <div class="hero-image" style="height: 100vh;">
+            <div class="hero-text">
+              <h1 style="font-style: Georgia; color: #fff; font-size:50px;"> Food Relief Initiative</h1>
+              <p>SignIn as Donor Or Consumer</p>
+              <button ><a href="../signin/signin.php">ClickHere</a></button>
+                <br>
+                <br>
+                <br>
+                <div style="display:flex; ">
+                    <div style="margin-right: 50px;">
+                        <div class="word">
+                            <span>F</span>
+                            <span>O</span>
+                            <span>O</span>
+                            <span>D</span>
+                            <span>I</span>
+                            <span>D</span>
+                            <span>I</span>
+                            <span>E</span>
+                            <span>L</span>
+                            <span>A</span>
+                            <span>N</span>
+                            <span>D</span>
+                        </div>    
+                    </div>
+                    <div style="margin-right: 50px;">
+                        <div class="word">
+                            <span>M</span>
+                            <span>A</span>
+                            <span>N</span>
+                            <span>G</span>
+                            <span>U</span>
+                        </div>    
+                    </div>
+                    <div class="word">
+                        <span>M</span>
+                        <span>A</span>
+                        <span>N</span>
+                        <span>G</span>
+                        <span>U</span>
+                    </div>
+            
+
+                </div>
+                  
+            </div>
+        
+          
+            <!--lightbox style popup goes here-->
+          </div>
+
+        <!-- <div class="content" >
+            <h1 style="text-align: center; font-family: sans-serif; 
+            padding-top: 50px;color: rgb(43, 40, 36);"> Food Relief Initiative</h1>
+            <div class="carts">
+                <div class="cart">
+                    <div><h3 style="font-family: sans-serif; font-size: 25px;color: rgb(80, 76, 76);">If You Are Donor</h3>
+                    </div>
+                    <div class="btn_cons">
+                        <button class="btn"><a href="../signin/signin.php">ClickHere</a></button>
+                    </div>
+                </div>
+                <div class="cart">
+                    <div><h3 style="font-family: sans-serif; font-size: 25px;color:rgb(80, 76, 76);">If You Are Consumer</h3>
+                    </div>
+                    <div class="btn_cons">
+                        <button class="btn"><a href="../signin/signin.php">ClickHere</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="heading_donor">
+                <h1 style="font-size: 30px; font-family: sans-serif; color: rgb(43, 40, 36);  text-align: center;margin-top: 30px;">Donors</h1>
+            </div>
+            <div class="mar">
+                <marquee width="20%" direction="left" behavior="scroll" height="50px" style="display: flex; flex-direction: row;">
+                   <h1 style="font-size: 40px; font-family:monospace; color: white;">FoodieLand</h1>
+                </marquee>
+                <marquee width="20%" direction="left" behavior="scroll" height="50px" style="display: flex; flex-direction: row;">
+                    <h1 style="font-size: 40px; font-family:monospace; color: white;">LoMarket</h1>
+                 </marquee>
+                 <marquee width="20%" direction="left" behavior="scroll" height="50px" style="display: flex; flex-direction: row;">
+                    <h1 style="font-size: 40px; font-family:monospace; color: white;">Grocertown</h1>
+                 </marquee>
+                
+            </div>
+        </div> -->
+            <section class="offering">
+                <img src="https://livedemo00.template-help.com/wt_prod-8697/images/about-1-601x350.jpg" alt="offer_image" class="offer_img">
+              
+                <div class="offer_content">
+                    <div class="offer_button">
+                        <button style="height: 45px; width: 150px;" id="buttonf">About US</button>
+                        <button style="height: 45px; width: 150px;" id="buttons">Food wastage</button>
+                        <button style="height: 45px; width: 150px;" id="buttont">AI Based Solution</button>
+
+                    </div>
+                    <div id="what_do">
+                        <h3 id="offer_h"></h3>
+                         <p id="offer_p">In Australia, 7.3 million tonnes of food is lost or wasted,
+                              estimated to be 298 kg per capita per year. At the same time, over 5 million
+                               Australians experience food insecurity each year. This number drastically 
+                               increased during 2020 following the impact of COVID19. We at Annie’s Goods for 
+                               Anyone” (AGA) , similar to thousands of NGOs globally we provide food to people in
+                                need. AGA operates across a few offices within a region, where it is able to take 
+                                in regular donations from a wide variety of partners such as supermarkets, grocery 
+                                stores and hospitality businesses, which includes food (perishable and non-perishable)
+                                 which is then used to support communities and families.
+                        </p>
+                    </div>
+                    
+                </div>
+            </section>
+            <section class="map">
+                <div class="heading_map">Areal View of customers</div>
+                <div class="map_det">
+                    <div class="detail">
+                        <p>We are also committed to reducing the Food wastage in Australia, as The substantial
+                         amounts of food which are produced are not eaten by humans, has a substantial negative
+                          impact: environmentally, socially and economically. Estimates suggest that 8-10% of global
+                           greenhouse gas emissions are associated with food that is not consumed. Reducing food
+                            waste at retail, food service and household level can provide multi-faceted 
+                        benefits for both people and the planet. However, the true scale of food waste
+                         and its impacts have not been well understood until now.
+                    </p>
+                    </div>
+                    <div class="map_img">
+                        <img src="./Screenshot (102).png" alt="map">
+                    </div>
+                </div>
+            </section>
+            <div class="container contact ">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="contact-info">
+                            <img src="https://image.ibb.co/kUASdV/contact-image.png" alt="image"/>
+                            <h2>Contact Us</h2>
+                            <h4>We would love to hear from you !</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="contact-form">
+                            <div class="form-group">
+                              <label class="control-label col-sm-2" for="fname">First Name:</label>
+                              <div class="col-sm-10">          
+                                <input type="text" class="form-control" id="fname" placeholder="Enter First Name" name="fname">
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="control-label col-sm-2" for="lname">Last Name:</label>
+                              <div class="col-sm-10">          
+                                <input type="text" class="form-control" id="lname" placeholder="Enter Last Name" name="lname">
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="control-label col-sm-2" for="email">Email:</label>
+                              <div class="col-sm-10">
+                                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="control-label col-sm-2" for="comment">Comment:</label>
+                              <div class="col-sm-10">
+                                <textarea class="form-control" rows="5" id="comment"></textarea>
+                              </div>
+                            </div>
+                            <div class="form-group">        
+                              <div class="col-sm-offset-2 col-sm-10">
+                                <button type="submit" class="btn btn-default">Submit</button>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        <script>
+
+        let btnfirst = document.querySelector("#buttonf");
+        let btnsecond = document.querySelector("#buttons");
+        let btnthird = document.querySelector("#buttont");
+        let para = document.querySelector("#offer_p");
+
+            
+        btnfirst.addEventListener('click' , () => {
+            para.innerHTML ="In Australia, 7.3 million tonnes of food is lost or wasted,estimated to be 298 kg per capita per year. At the same time, over 5 millionAustralians experience food insecurity each year. This number drastically increased during 2020 following the impact of COVID19. We at Annie’s Goods for Anyone” (AGA) , similar to thousands of NGOs globally we provide food to people inneed. AGA operates across a few offices within a region, where it is able to take in regular donations from a wide variety of partners such as supermarkets, grocery stores and hospitality businesses, which includes food (perishable and non-perishable) which is then used to support communities and families."})
+
+
+        btnsecond.addEventListener('click' , () => {
+            para.innerHTML ="We are also committed to reducing the Food wastage in Australia, as The substantial amounts of food which are produced are not eaten by humans, has a substantial negative impact: environmentally, socially and economically. Estimates suggest that 8-10% of global greenhouse gas emissions are associated with food that is not consumed. Reducing food waste at retail, food service and household level can provide multi-faceted benefits for both people and the planet. However, the true scale of food waste and its impacts have not been well understood until now.";
+        })
+
+        btnthird.addEventListener('click' , () => {
+        para.innerHTML ="In this AI based solution, we use data analytics to analyze the distribution of data, and overcome the scarcity through a well developed recommender system and a sophisticated yet easy to use model for the donor and consumer.";
+
+    })
+
+
+    const spans = document.querySelectorAll('.word span');
+
+    spans.forEach((span, idx) => {
+    span.addEventListener('click', (e) => {
+        e.target.classList.add('active');
+    });
+    span.addEventListener('animationend', (e) => {
+        e.target.classList.remove('active');
+    });
+    
+    // Initial animation
+    setTimeout(() => {
+        span.classList.add('active');
+    }, 750 * (idx+1))
+    });
+        </script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </body>
 </html>

@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-nav{
+.nav{
     height: 60px;
     width: 100%;
     box-shadow: 16px 3px 20px rgba(0,0, 0, 0.2);
@@ -27,8 +27,8 @@ nav{
 }
 
 .btn{
-    width: 80px;
-    height: 30px;
+    width: 90px;
+    height: 35px;
     margin-right: 20px;
     border: none;
     background-color: #FF7F50;
@@ -52,3 +52,376 @@ nav{
 .logo{
     margin-left: 20px;
 }
+
+.content{
+    height: 93vh;
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(248,123,18,0.6371499283307073) 100%);
+background: url('https://asianngo.org/upload/magzine/articles/background/1567409529.jpg');
+background-position: center;
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+.carts{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.cart{
+    height: 250px;
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+
+.mar{
+    margin-top: 60px;
+    display: flex;
+   justify-content: center;
+}
+.mar_cart{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+
+
+.offering{
+    display: flex;
+    margin: 100px;
+}
+
+.offer_content{
+    margin-left: 50px;
+}
+
+.offer_button button{
+    width:140px;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 20px;
+    background-color: white;
+    border: 1px solid rgb(202, 201, 201);
+    color: rgb(179, 174, 174);
+}
+
+.offer_content h3{
+  font-weight: 400;
+  font-size: 25px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.offer_content p{
+    color: grey;
+    font-size: 16px;
+}
+
+
+ .button_2:focus{
+   display: inline-block;
+}
+
+
+.offer_button button:focus {
+    background-image: linear-gradient(to right top, #1af2e5, #00def1, #00c8f8, #00b0f7, #1296eb);
+    color: white;
+    transition: 1s;
+}
+.heading_map{
+    font-size: 40px;
+    color: black;
+    font-family: monospace;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.map{
+    height: 100vh;
+    background-color: rgb(218, 207, 207);
+    
+}
+
+.map_det{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.detail{
+    width: 400px;
+    height: 600px;
+    margin: 30px;
+
+}
+.detail p{
+    font-size: 20px;
+    margin-top: 20px;
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+
+.map img{
+height: 600px;
+width: 700px;
+margin: 30px;
+}
+
+.contact{
+    padding: 4%;
+    height: 700px;
+}
+.col-md-3{
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+.empty{
+    height: 50px;
+}
+
+/* hhhh */
+h1 {
+    font-family: Georgia;
+    font-weight: bold;
+    font-style: italic;
+    margin: 10px;
+    text-shadow: 2px 2px #000;
+  }
+  
+  p {
+    font-family: Georgia;
+    font-style: italic;
+    text-shadow: 1px 1px #000;
+  }
+  
+  .exclusions {
+    font-family: Georgia;
+    font-size: 8pt;
+    letter-spacing: 1px;
+    text-shadow: none;
+    font-style: normal;
+  }
+  
+  .hero-image {
+    background-image: url("https://asianngo.org/upload/magzine/articles/background/1567409529.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .hero-exclusions {
+    position: fixed;
+    text-align: center;
+    top: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .hero-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 12px 35px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    border: 5px solid black;
+    margin-left: -1px;
+    margin-top: 5%;
+    font-size: 8pt;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: Geogia;
+    font-syle: italic;
+  }
+  
+  .hero-text button:hover {
+    background-color: transparent;
+    color: white;
+    border: 5px solid black;
+    text-shadow: 2px 2px #000;
+  }
+  
+  /*start of popup*/
+  .exclusions {
+    font-family: Georgia;
+    font-size: 8pt;
+    letter-spacing: 1px;
+    text-shadow: none;
+    font-style: normal;
+  }
+  
+  .box {
+    width: 40%;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 35px;
+    border: 2px solid #fff;
+    border-radius: 20px/50px;
+    background-clip: padding-box;
+    text-align: center;
+  }
+  
+  .button {
+    font-size: 1em;
+    padding: 10px;
+    color: #fff;
+    border: 2px solid #06D85F;
+    border-radius: 20px/50px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+  }
+  .button:hover {
+    background: #06D85F;
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+  }
+  .overlay:target {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .popup {
+    margin: 70px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 2px;
+    width: 60%;
+    position: relative;
+    transition: all 5s ease-in-out;
+  }
+  
+  .popup h2 {
+    margin-top: 0;
+    color: #333;
+    font-family: Georgia, sans-serif;
+    font-style: italic;
+  }
+  
+  .popup .close {
+    position: fixed;
+    top: 90px;
+    left: 50%;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup .close:hover {
+    color: #a6a6a6;
+  }
+  .popup .content {
+    max-height: 30%;
+    overflow: auto;
+    padding-top: 30px;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .box {
+      width: 70%;
+    }
+    .popup {
+      width: 70%;
+    }
+  }
+  
+  /* unvisited link */
+  a:link {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #fff;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #fff;
+  }
