@@ -3,7 +3,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "";
-$databaseName = "dbdata";
+$databaseName = "re";
 
 // connect to mysql database
 
