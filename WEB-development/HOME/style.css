@@ -111,6 +111,11 @@ background-size: cover;
     margin: 100px;
 }
 
+.offering img{
+  height: 350px;
+  width: 600px;
+}
+
 .offer_content{
     margin-left: 50px;
 }
